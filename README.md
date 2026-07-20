@@ -3,16 +3,6 @@ title: Home
 description: Tactile Art & Design Adventures by the Center for Assistive Technology Training Northwest, WSSB
 ---
 
-## CATT-NW
-
-<img src="embeds/cattNW.png" alt="CATT-NW logo" width="250">
-
-The Northwest Center for Assistive Technology Training (CATT-NW) is based at the Washington State School for the Blind (WSSB) and powered by the American Printing House for the Blind (APH).
-
-Our mission is to provide assistive/access technology training to teachers of blind/low vision children, utilizing a "train the trainer" model, while also providing support/training for anyone working with blind or low vision students and parents/caregivers of a child who is blind or has low vision, including those with additional disabilities.
-
----
-
 ## TADA!
 
 <img src="embeds/TADALogo_tactile.svg" alt="TADA! logo" width="250">
