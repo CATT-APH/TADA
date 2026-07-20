@@ -151,4 +151,4 @@ Finally, the nonprofit [See3D](https://www.see3d.org) is creating directories of
 
 *© 2025 Joan Horvath and Rich Cameron, Nonscriptum LLC. Released under a [Creative Commons CC-BY International 4.0 License](https://creativecommons.org/licenses/by/4.0/deed.en). You may freely share and adapt as long as you keep this notice and attribution to the authors. Supported by a grant from the Northwest Center for Assistive Technology Training (CATT-NW) at Washington State School for the Blind.*
 
-**Back to:** [Resources](02_RESOURCES.md)
+**Back to:** [Resources]((../../02_RESOURCES.md))
