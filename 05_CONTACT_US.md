@@ -17,4 +17,4 @@ Questions or comments about TADA!? [Email the CATT-NW Team](mailto:cattnw@wssb.w
 
 ---
 
-**Previous:** [Adventure Map](04_ADVENTURE_MAP.md)
+**Previous:** [Adventure Map](04_ADVENTURE_MAP.md) **Home:** [Home](README.md)
