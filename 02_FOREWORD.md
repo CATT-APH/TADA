@@ -55,4 +55,4 @@ Like any memorable adventure, tactile literacy involves everyone. For blind and 
 
 ---
 
-**Previous:** [Home](README.md) · **Next:** [Resources](02_RESOURCES.md)
+**Previous:** [Home](README.md) · **Next:** [Resources](03_RESOURCES.md)
