@@ -5,11 +5,11 @@ description: Tactile Art & Design Adventures by the Center for Assistive Technol
 
 ## TADA!
 
-<table> <tr> <td> <img src="embeds/TADALogo_tactile.svg" alt="TADA! logo" width="250"> </td> <td>
+<img src="embeds/TADALogo_tactile.svg" alt="TADA! logo" width="250" align="left">
 
 TADA! is an acronym for Tactile Art and Design Adventures, and designed to be a free online curriculum for anyone to use with a student of any age and ability who would like to learn nonvisual basic drawing skills, spatial concepts related to coding, and how to create computer graphics. TADA offers a set of ten (10) activities that are organized as introductory, intermediate, and advanced "points of interest" that can be followed like an adventure map and punctuated with excitement!
 
-</td> </tr> </table>
+<br clear="left">
 
 By following the TADA! map, students can expect to:
 
