@@ -3,7 +3,10 @@ title: Home
 description: Tactile Art & Design Adventures by the Center for Assistive Technology Training Northwest, WSSB
 ---
 
-![TADA! logo](embeds/TADALogo_tactile.svg)
+<p align="center">
+  <img src="embeds/TADALogo_tactile.svg" alt="TADA! logo" width="150">
+  <img src="embeds/cattNW.png" alt="CATT-NW logo" width="150">
+</p>
 
 # TADA! Introduction
 
