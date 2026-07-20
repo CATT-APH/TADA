@@ -7,7 +7,7 @@ description: Tangible Art & Design Adventures by the Center for Assistive Techno
 
 [Northwest Center for Assistive Technology Training (CATT-NW)](https://wssb.wa.gov/catt)
 
-Questions or comments about TADA!? [Email the CATT-NW Team](mailto:cattnw@wssb.wa.gov).
+Questions or comments about TADA!? Email the CATT-NW team at [cattnw@wssb.wa.gov](mailto:cattnw@wssb.wa.gov).
 
 ## Social Media
 
