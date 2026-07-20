@@ -58,15 +58,16 @@ The Northwest Center for Assistive Technology Training (CATT-NW) is based at the
 
 ---
 
-## Credits & Acknowledgments
+---
 
 <p align="center">
   <img src="embeds/cattNW.png" alt="CATT-NW logo" width="150">
+  &nbsp;&nbsp;
+  <a href="https://www.wssb.wa.gov/services/northwest-center-assistive-technology-training-catt-nw">CATT-NW</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.wssb.wa.gov/">WSSB</a>
+  &nbsp;&nbsp;
   <img src="embeds/wssb.svg" alt="Washington State School for the Blind logo" width="150">
 </p>
-
-TADA! is developed by the [Northwest Center for Assistive Technology Training (CATT-NW)](https://www.wssb.wa.gov/services/northwest-center-assistive-technology-training-catt-nw), based at the [Washington State School for the Blind (WSSB)](https://www.wssb.wa.gov/), in partnership with the American Printing House for the Blind (APH).
-
-Our mission is to provide assistive/access technology training to teachers of blind/low vision children, utilizing a "train the trainer" model, while also providing support/training for anyone working with blind or low vision students and parents/caregivers of a child who is blind or has low vision, including those with additional disabilities.
 
 **Next:** [Foreword](02_FOREWORD.md)(WSSB) and part of the national CATT program. CATT was founded in 2019 at the Alabama Institute for the Blind (AIDB) and powered via collaboration with the American Printing House for the Blind (APH).
