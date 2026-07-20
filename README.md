@@ -11,7 +11,7 @@ TADA! is an acronym for Tactile Art and Design Adventures, and designed to be a 
 
 <br clear="left">
 
-
+---
 
 By following the TADA! map, students can expect to:
 
