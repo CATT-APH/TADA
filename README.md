@@ -3,12 +3,19 @@ title: Home
 description: Tactile Art & Design Adventures by the Center for Assistive Technology Training Northwest, WSSB
 ---
 
-<p align="center">
-  <img src="embeds/TADALogo_tactile.svg" alt="TADA! logo" width="150">
-  <img src="embeds/cattNW.png" alt="CATT-NW logo" width="150">
-</p>
+## CATT-NW
 
-# TADA! Introduction
+<img src="embeds/cattNW.png" alt="CATT-NW logo" width="250">
+
+The Northwest Center for Assistive Technology Training (CATT-NW) is based at the Washington State School for the Blind (WSSB) and powered by the American Printing House for the Blind (APH).
+
+Our mission is to provide assistive/access technology training to teachers of blind/low vision children, utilizing a "train the trainer" model, while also providing support/training for anyone working with blind or low vision students and parents/caregivers of a child who is blind or has low vision, including those with additional disabilities.
+
+---
+
+## TADA!
+
+<img src="embeds/TADALogo_tactile.svg" alt="TADA! logo" width="250">
 
 TADA! is an acronym for Tactile Art and Design Adventures, and designed to be a free online curriculum for anyone to use with a student of any age and ability who would like to learn nonvisual basic drawing skills, spatial concepts related to coding, and how to create computer graphics. TADA offers a set of ten (10) activities that are organized as introductory, intermediate, and advanced "points of interest" that can be followed like an adventure map and punctuated with excitement!
 
