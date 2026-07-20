@@ -21,7 +21,7 @@ Tactile world-building is an ongoing adventure. During and beyond this TADA! map
 - [Sensational Books — Ann Cunningham](https://sensationalbooks.com/)
 - [See3D — Caroline Karbowski](https://see3d.org/)
 - [Abigale Stangl, Ph.D — Georgia Institute of Technology](https://abigalestangl.com/)
-- [Advanced Activities Section C: 3D Printable STEM Resources](activities/advanced/3DPrintable_STEM_Resources.md)
+- [Advanced Activities Section C: 3D Printable STEM Resources](embeds/resources_page/3D_PRINTABLE_STEM_RESOURCES.md)
 
 ---
 
