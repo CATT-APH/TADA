@@ -1,0 +1,268 @@
+
+
+<svg width="800" height="800" xmlns="http://www.w3.org/2000/svg">
+<!-- Braille Measurements and Notes
+Dot diameter: 1.44mm
+Dot distance in same cell: 2.34mm
+Distance between cells: 6.2mm
+Group translate  on X: 8.54mm
+Group translate on Y between lines: 10.88mm
+-->
+
+<defs>
+<!-- Initial braille cell setup. Reference these for individual dots in your Use element. -->
+<g id="brlCell">
+<circle id="dot1" cx="0.72mm" cy="0.72mm" r="0.72mm" fill="black"/>
+<circle id="dot2" cx="0.72mm" cy="3.06mm" r="0.72mm" fill="black"/>
+<circle id="dot3" cx="0.72mm" cy="5.4mm" r="0.72mm" fill="black"/>
+
+<circle id="dot4" cx="3.06mm" cy="0.72mm" r="0.72mm" fill="black"/>
+<circle id="dot5" cx="3.06mm" cy="3.06mm" r="0.72mm" fill="black"/>
+<circle id="dot6" cx="3.06mm" cy="5.4mm" r="0.72mm" fill="black"/>
+</g>
+
+<!-- Grade 1 Alphabet -->
+
+<g id="brl_d">
+<use href="#dot1"/>
+<use href="#dot4"/>
+<use href="#dot5"/>
+</g>
+
+<g id="brl_t">
+<use href="#dot2"/>
+<use href="#dot4"/>
+<use href="#dot5"/>
+<use href="#dot3"/>
+</g>
+</defs>
+
+
+
+<svg version="1.1" viewBox="0 0 600 600" width="800" height="800" xmlns="http://www.w3.org/2000/svg">
+<title>TADA Map Tactile Logo</title>
+<desc>An aged map showing four map pins arranged across it. Each pin has a print letter atop it spelling out TADA; the first A pin is higher than the rest, the D pin is lower than the rest, and all the pins are connected at their base points by a dashed blue line marking a trail to a letter X at the end of it. A pen is tilted and pointing to the X like an exclamation point, and the map has decorative gridlines and mountain illustrations in the rest of the space.</desc>
+<style>
+.text {
+	font-size: 72px;
+	font-family: 'Helvetica';
+	fill: black;
+}
+.map {
+	stroke: black;
+	stroke-width: 4;
+	fill: white;
+}
+.trail {
+	stroke: blue;
+	stroke-width: 8;
+	fill: none;
+	stroke-dasharray: 8, 15;
+}
+.pen {
+	stroke: black;
+	stroke-width: 4;
+	fill: hsl(0, 0%, 90%);
+}
+</style>
+<defs>
+<g id="mapPin">
+<path id="pinBody" d="M 25, 95
+	C 23, 78 0, 50 0, 25
+	C 0, 0 50, 0 50, 25
+	S 27, 78 25, 95 z"
+	style="fill: oldlace; stroke: black; stroke-width: 3;"/>
+<circle id="pinDot" cx="25" cy="25" r="13" fill="black"/>
+</g>
+
+<!-- Initial braille cell setup. Reference these for individual dots in your Use element. -->
+<g id="brlCell">
+<circle id="dot1" cx="0.72mm" cy="0.72mm" r="0.72mm" fill="black"/>
+<circle id="dot2" cx="0.72mm" cy="3.06mm" r="0.72mm" fill="black"/>
+<circle id="dot3" cx="0.72mm" cy="5.4mm" r="0.72mm" fill="black"/>
+
+<circle id="dot4" cx="3.06mm" cy="0.72mm" r="0.72mm" fill="black"/>
+<circle id="dot5" cx="3.06mm" cy="3.06mm" r="0.72mm" fill="black"/>
+<circle id="dot6" cx="3.06mm" cy="5.4mm" r="0.72mm" fill="black"/>
+</g>
+</defs>
+
+<rect id="bg" x="0" y="0" width="100%" height="100%" fill="white"/>
+
+<g id="root" transform="translate(0, 0)">
+
+<g id="rolledMap" transform="rotate(4, 300, 300)">
+<path id="mapSurface" d="M 25, 25
+	Q 55, 300 25, 575
+	L 150, 575
+	L 165, 545
+	L 176, 575
+	L 240, 575
+	L 250, 555
+	L 263, 575
+	L 402, 575
+	L 420, 558
+	L 437, 575 
+	L 575, 575
+	Q 545, 300 575, 25
+	L 420, 25
+	L 411, 40
+	L 401, 30
+	L 375, 30
+	L 373, 35
+	L 368, 25
+	L 130, 25
+	L 115, 42
+	L 100, 29
+	L 93, 38
+	L 72, 25
+	L 25, 25 Z"
+	class="map"/>
+
+<g id="grid" transform="translate(-30, 0)">
+<use href="#vGrid" transform="rotate(90, 300, 300)"/>
+<path id="vGrid" d="M 100, 40
+	Q 128, 300 100, 510
+	M 200, 45
+	Q 212, 300 200, 502
+	M 300, 40
+	L 300, 511
+	M 400, 40
+	Q 380, 300 400, 510
+	M 500, 40
+	Q 460, 300 500, 510"
+	style="stroke: hsl(0, 0%, 96%); stroke-width: 1; fill: none; stroke-linecap: round;"/>
+</g>
+
+
+</g>
+
+
+<!--
+<use href="#mountains" x="-345" y="335"/>
+-->
+<g id="mountains" transform="translate(105, 395)">
+<use href="#mt" x="22" y="-15"/>
+<use href="#mt" x="55" y="33"/>
+<g id="mt">
+<path id="mtOutline" d="M 0, 40
+	C 19, 23 29, 1 35, 1
+	C 41, 1 58, 24 70, 41 Z"
+	fill="white"/>
+
+<path id="mtBase" d="M 0, 40
+	C 19, 22 29, 0 35, 0
+	C 41, 0 58, 23 70, 42
+	C 57, 24 41, 6 5, 6
+	C 29, 6 19, 26 0, 42 Z"
+	fill="hsl(0, 0%, 75%)"/>
+</g>
+
+
+</g>
+<g id="mapTrail">
+<path id="trail" d="M 103, 320
+	C 123, 300  217, 285 224, 285
+	S 279, 395 301, 405
+	S 380, 365 395, 355
+	S 480, 335  475, 450" class="trail"/>
+
+<g id="xMark" transform="rotate(40, 475, 450) translate(5, 10)">
+<path id="xLeg" d="M 435, 450
+	L 515, 450
+	M 475, 410
+	L 475, 490" style="stroke: black; stroke-width: 10; fill: none; stroke-linecap: round;"/>
+
+</g>
+</g>
+
+<g id="T1">
+<use href="#mapPin" x="103" y="225"/>
+<text x="106" y="220" class="text">T</text>
+<g opacity="0"  transform="translate(101, 132)">
+<use href="#dot6"/>
+<use href="#brl_t" x="8.54mm"/>
+</g>
+</g>
+
+<g id="A1" transform="translate(-20, -5)">
+<use href="#mapPin" x="224" y="190"/>
+<text class="text" x="225" y="180">A</text>
+<g opacity="0" transform="translate(230, 100)">
+<use href="#dot6"/>
+<use href="#dot1" x="8.54mm"/>
+</g>
+</g>
+
+
+<g id="D">
+<use href="#mapPin" x="301" y="295"/>
+<text class="text" x="300" y="285">D</text>
+<g opacity="0" transform="translate(300, 200)">
+<use href="#dot6"/>
+<use href="#brl_d" x="8.54mm"/>
+</g>
+</g>
+
+<g id="A2" transform="translate(20, -35)">
+<use href="#mapPin" x="395" y="280"/>
+<text class="text" x="392" y="270">A</text>
+<g opacity="0" transform="translate(393, 190)">
+<use href="#dot6"/>
+<use href="#dot1" x="8.54mm"/>
+</g>
+</g>
+
+<g id="penRoot" transform="scale(0.6) rotate(28, 30, 330) translate(865, -65)">
+
+<circle id="ballpoint" cx="30" cy="330" r="5" fill="black"/>
+
+<path id="penBody" d="M 7, 95
+	L 7, 285
+	C 7, 295 18, 312 25, 330
+	L 35, 330
+	C 41, 312 53, 295 53, 280
+	L 53, 95 Z"
+	class="pen"/>
+
+
+<path id="penCap" d="M 0, 200
+	L 6, 35
+	Q 30, 10 54, 35
+	L 60, 200 Z"
+	class="pen"/>
+
+<path id="clip" d="M 5, 40
+	L 70, 40
+	C 88, 95  85, 150 80, 190"
+	style="stroke: black; stroke-width: 6; fill: none; stroke-linecap: round;"/>
+
+</g>
+
+</g>
+</svg>
+
+<g id="brlT" transform="translate(151, 185)">
+<use href="#dot6"/>
+<use href="#brl_t" x="7.4mm"/>
+</g>
+
+<g id="brlA1" transform="translate(280, 125)">
+<use href="#dot6"/>
+<use href="#dot1" x="7.4mm"/>
+</g>
+
+<g id="brld" transform="translate(413, 276)">
+<use href="#dot6"/>
+<use href="#brl_d" x="7.4mm"/>
+</g>
+
+<g id="brlA1" transform="translate(555, 205)">
+<use href="#dot6"/>
+<use href="#dot1" x="7.4mm"/>
+</g>
+
+
+
+
+</svg>
