@@ -60,14 +60,7 @@ The Northwest Center for Assistive Technology Training (CATT-NW) is based at the
 
 ---
 
-<p align="center">
-  <img src="embeds/cattNW.png" alt="CATT-NW logo" width="150">
-  &nbsp;&nbsp;
-  <a href="https://www.wssb.wa.gov/services/northwest-center-assistive-technology-training-catt-nw">CATT-NW</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.wssb.wa.gov/">WSSB</a>
-  &nbsp;&nbsp;
-  <img src="embeds/wssb.svg" alt="Washington State School for the Blind logo" width="150">
-</p>
+Credits footer · MD
+<p align="center"> <img src="embeds/cattNW.png" alt="CATT-NW logo" width="150"> &nbsp;&nbsp; <a href="https://www.wssb.wa.gov/services/northwest-center-assistive-technology-training-catt-nw">Northwest Center for Assistive Technology Training (CATT-NW)</a> - <a href="https://www.wssb.wa.gov/">Washington State School for the Blind (WSSB)</a> &nbsp;&nbsp; <img src="embeds/wssb.svg" alt="Washington State School for the Blind logo" width="150"> </p>
 
 **Next:** [Foreword](02_FOREWORD.md)(WSSB) and part of the national CATT program. CATT was founded in 2019 at the Alabama Institute for the Blind (AIDB) and powered via collaboration with the American Printing House for the Blind (APH).
