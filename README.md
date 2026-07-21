@@ -60,10 +60,10 @@ The Northwest Center for Assistive Technology Training (CATT-NW) is based at the
 ---
 
 <p align="center">
-  <img src="embeds/cattNW.png" alt="CATT-NW logo" width="150">
+  <img src="embeds/cattNW.png" alt="CATT-NW logo" width="130">
   &nbsp;&nbsp;
   <a href="https://www.wssb.wa.gov/services/northwest-center-assistive-technology-training-catt-nw">Northwest Center for Assistive Technology Training</a> - <a href="https://www.wssb.wa.gov/">Washington State School for the Blind</a>
   &nbsp;&nbsp;
-  <img src="embeds/wssb.svg" alt="Washington State School for the Blind logo" width="150">
+  <img src="embeds/wssb.svg" alt="Washington State School for the Blind logo" width="130">
 </p>
 
