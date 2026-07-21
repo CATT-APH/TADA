@@ -51,11 +51,6 @@ The Northwest Center for Assistive Technology Training (CATT-NW) is based at the
 
 **Next:** [Foreword](02_FOREWORD.md)(WSSB) and part of the national CATT program. CATT was founded in 2019 at the Alabama Institute for the Blind (AIDB) and powered via collaboration with the American Printing House for the Blind (APH).
 
----
-
----
-
----
 
 ---
 
