@@ -5,6 +5,8 @@ description: Tangible Art & Design Adventures by the Center for Assistive Techno
 
 # Activity 12, Advanced - Digitizing Drawings with SVG Code
 
+[Print this page](https://www.printfriendly.com/print?url=https://github.com/aabdurmohammed-source/TADA/blob/main/embeds/adventure_map_activities/advanced/12_advanced.md)
+
 In this activity, students will get their hands on SVG code and learn how to render their physical [Activity 1](../beginner/01_beginner.md) drawings as digital illustrations. Students will follow the syntax available on [BlindSVG.com](https://blindsvg.com/) to build their basic shapes using the attributes and values from the first activity, then get visual and tactile confirmation of their end result, getting to compare the output to their original drawings.
 
 This activity will involve computer use, text editor navigation and text editing/input, being able to open the finished SVG files in Google Chrome or Mozilla Firefox, and outputting via any tactile method.
