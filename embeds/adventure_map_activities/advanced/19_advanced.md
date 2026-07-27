@@ -5,6 +5,8 @@ description: Tangible Art & Design Adventures by the Center for Assistive Techno
 
 # Activity B.3. True 3D models
 
+[Print this page](https://www.printfriendly.com/print?url=https://github.com/aabdurmohammed-source/TADA/blob/main/embeds/adventure_map_activities/advanced/19_advanced.md)
+
 In addition to the 2D basic shapes we saw back in Activity A, OpenSCAD has 3D primitives like cube and cylinder that work similarly, but are of course three-dimensional. The basic 3D shapes are the cube, cylinder, sphere, and polyhedron. Each one is pretty similar to the related two-dimensional shape.
 
 Steps:
