@@ -3,6 +3,8 @@ title: "Lesson 1, Beginner - Intro to Tactile Graphics"
 description: Tangible Art & Design Adventures by the Center for Assistive Technology Training Northwest, WSSB
 ---
 
+[Print this page](https://www.printfriendly.com/print?url=https://github.com/aabdurmohammed-source/TADA/blob/main/embeds/adventure_map_activities/beginner/01_beginner.md)
+
 # Lesson 1, Beginner - Intro to Tactile Graphics
 
 This adventure introduces tactile graphics and art, emphasizing hands-on learning and creativity while introducing the idea of using technology to create tactile graphics. It aims to develop motor skills, spatial awareness, and appreciation for accessible art.
