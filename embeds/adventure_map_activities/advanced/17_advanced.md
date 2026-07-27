@@ -5,6 +5,8 @@ description: Tangible Art & Design Adventures by the Center for Assistive Techno
 
 # Activity B.1. Adding and Subtracting Objects
 
+[Print this page](https://www.printfriendly.com/print?url=https://github.com/aabdurmohammed-source/TADA/blob/main/embeds/adventure_map_activities/advanced/17_advanced.md)
+
 OpenSCAD is a constructive-geometry CAD program. What that means is that a user defines an object and then modifies it in various ways, like scaling it, rotating, and so on. In this activity we are going to look at ways to merge objects together, or to use one object as a shaped hole in another. We can also save just the intersection of two objects.
 
 As we saw in the "Making 2D Shapes in OpenSCAD" section of this guide, the fundamental structure of a model is an object, possibly modified. Let's look at this rotated rectangle again, and deconstruct it a little.
