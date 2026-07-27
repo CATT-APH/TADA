@@ -5,6 +5,8 @@ description: Tangible Art & Design Adventures by the Center for Assistive Techno
 
 # Activity A.1. Create a Square in OpenSCAD
 
+[Print this page](https://www.printfriendly.com/print?url=https://github.com/aabdurmohammed-source/TADA/blob/main/embeds/adventure_map_activities/advanced/14_advanced.md)
+
 This activity creates a square 25 mm (about an inch) on a side. All the activities here assume that OpenSCAD is open and working, and that you have launched it with the usual graphical user interface.
 
 Steps:
