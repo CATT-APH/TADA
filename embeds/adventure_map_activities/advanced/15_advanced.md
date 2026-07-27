@@ -3,9 +3,9 @@ title: "Activity A.2. Basic Shapes in OpenSCAD"
 description: Tangible Art & Design Adventures by the Center for Assistive Technology Training Northwest, WSSB
 ---
 
-[Print this page](https://www.printfriendly.com/print?url=https://github.com/aabdurmohammed-source/TADA/blob/main/embeds/adventure_map_activities/advanced/15_advanced.md)
-
 # Activity A.2. Basic Shapes in OpenSCAD
+
+[Print this page](https://www.printfriendly.com/print?url=https://github.com/aabdurmohammed-source/TADA/blob/main/embeds/adventure_map_activities/advanced/15_advanced.md)
 
 Now that we have tried out the workflow for creating a square, we can try out other built-in 2D shapes as well as adding, subtracting or intersecting two or more shapes. We used a square the most straightforward way, by just specifying a side. OpenSCAD also lets you create "squares" (rectangles, really) with sides that are different lengths. You can also create circles, and general polygons.
 
