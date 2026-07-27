@@ -5,6 +5,8 @@ description: Tangible Art & Design Adventures by the Center for Assistive Techno
 
 # Activity A.3. Rotating, Translating, Scaling and Mirroring Shapes
 
+[Print this page](https://www.printfriendly.com/print?url=https://github.com/aabdurmohammed-source/TADA/blob/main/embeds/adventure_map_activities/advanced/16_advanced.md)
+
 The real power of OpenSCAD is not in creating individual shapes one at a time. Instead you can create complex drawings with as much structure as you like. Each of the individual shapes we have talked about in Activities 1 and 2 can be altered by using additional OpenSCAD functionality to modify them. In the Programming in OpenSCAD section we get into the ways to combine shapes.
 
 Steps:
