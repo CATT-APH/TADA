@@ -5,6 +5,8 @@ description: Tangible Art & Design Adventures by the Center for Assistive Techno
 
 # Activity 9, Intermediate - Drawing with Colby
 
+[Print this page](https://www.printfriendly.com/print?url=https://github.com/aabdurmohammed-source/TADA/blob/main/embeds/adventure_map_activities/intermediate/09_intermediate.md)
+
 In this adventure, students will learn introductory programming concepts by planning and using Colby's path to create shapes. Students will be introduced to perspective and using coordinates on a coordinate grid.
 
 ## Setup - Activity 9
