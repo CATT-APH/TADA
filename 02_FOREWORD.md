@@ -3,9 +3,11 @@ title: Foreword
 description: Tangible Art & Design Adventures Foreword by the Center for Assistive Technology Training Northwest, WSSB
 ---
 
-[Print this page](https://www.printfriendly.com/print?url=https://github.com/aabdurmohammed-source/TADA/blob/main/02_FOREWORD.md)
 
 # TADA! Foreword
+
+[Print this page](https://www.printfriendly.com/print?url=https://github.com/aabdurmohammed-source/TADA/blob/main/02_FOREWORD.md)
+
 
 To provide some context regarding the inspirations and experiences that informed the development of TADA!, we offer two forewords. The first is from Ann Cunningham, a tactile artist and educator at the Colorado Center for the Blind. The second is from Danielle Montour, a blind Braille and tactile literacy educator in New York City.
 
