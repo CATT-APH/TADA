@@ -5,6 +5,8 @@ description: Tangible Art & Design Adventures by the Center for Assistive Techno
 
 # TADA! Resources
 
+[Print this page](https://www.printfriendly.com/print?url=https://github.com/aabdurmohammed-source/TADA/blob/main/03_RESOURCES.md)
+
 Tactile world-building is an ongoing adventure. During and beyond this TADA! map, we invite exploration of various other tactile adventures, such as:
 
 - [BlindSVG.com — Marco Salsiccia's guide to nonvisual computer design using SVG](https://blindsvg.com)
