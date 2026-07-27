@@ -4,6 +4,8 @@ title: Home
 description: Tactile Art & Design Adventures by the Center for Assistive Technology Training Northwest, WSSB
 ---
 
+[Print this page](https://www.printfriendly.com/print?url=https://github.com/aabdurmohammed-source/TADA/blob/main/README.md)
+
 ## TADA!
 
 <img src="embeds/TADALogo_tactile.svg" alt="TADA! logo" width="250" role="img">
