@@ -3,7 +3,7 @@ title: Foreword
 description: Tangible Art & Design Adventures Foreword by the Center for Assistive Technology Training Northwest, WSSB
 ---
 
-[Print this page](https://www.printfriendly.com/print?url=https://github.com/aabdurmohammed-source/TADA/blob/main/README.md)
+[Print this page](https://www.printfriendly.com/print?url=https://github.com/aabdurmohammed-source/TADA/blob/main/02_FOREWORD.md)
 
 # TADA! Foreword
 
