@@ -5,6 +5,8 @@ description: Tangible Art & Design Adventures by the Center for Assistive Techno
 
 # Activity 13, Advanced - Iterating on SVG Drawings & Beyond
 
+[Print this page](https://www.printfriendly.com/print?url=https://github.com/aabdurmohammed-source/TADA/blob/main/embeds/adventure_map_activities/advanced/13_advanced.md)
+
 In this final adventure of TADA, students will practice iterating their digital drawings by changing attributes of shapes to alter their appearance, moving them around, fixing problems, and getting comfortable enough with manipulating the SVG syntax to prepare for more advanced coding and drawing skills.
 
 This adventure will involve computer use, text editor navigation and text editing/input, opening and navigating through their SVG files and altering the code, being able to open the finished SVG files in Google Chrome or Mozilla Firefox, and outputting via any tactile method.
