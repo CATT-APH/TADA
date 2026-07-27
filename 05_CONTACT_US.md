@@ -3,6 +3,8 @@ title: Contact Us
 description: Tangible Art & Design Adventures by the Center for Assistive Technology Training Northwest, WSSB
 ---
 
+[Print this page](https://www.printfriendly.com/print?url=https://github.com/aabdurmohammed-source/TADA/blob/main/05_CONTACT_US.md)
+
 # Contact Us
 
 [Northwest Center for Assistive Technology Training (CATT-NW)](https://wssb.wa.gov/catt)
