@@ -5,6 +5,8 @@ description: Tangible Art & Design Adventures by the Center for Assistive Techno
 
 # Activity 8, Intermediate - Colby's Mouse Town
 
+[Print this page](https://www.printfriendly.com/print?url=https://github.com/aabdurmohammed-source/TADA/blob/main/embeds/adventure_map_activities/intermediate/08_intermediate.md)
+
 In this adventure, students will learn introductory programming concepts by planning and navigating routes through Colby's town on graph paper. They will practice sequencing by breaking bigger tasks into smaller steps.
 
 ## Setup - Activity 8
