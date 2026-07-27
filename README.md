@@ -1,7 +1,6 @@
----
----
-title: Home
-description: Tactile Art & Design Adventures by the Center for Assistive Technology Training Northwest, WSSB
+# Home
+
+Tactile Art & Design Adventures by the Center for Assistive Technology Training Northwest, WSSB
 ---
 
 [Print this page](https://www.printfriendly.com/print?url=https://github.com/aabdurmohammed-source/TADA/blob/main/README.md)
