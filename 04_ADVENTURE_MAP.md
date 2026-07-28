@@ -26,7 +26,10 @@ Develop strategies for creating pixel art using a grid, braille, and textured pa
 
 **Goals:** Learn about color and develop tactile discrimination skills.
 
-### Activity 4: Coming Soon
+### [Activity 4: Moving from 3D to 2D: Basic Shapes](embeds/adventure_map_activities/beginner/04_beginner.md)
+In this activity, students will learn how 3D objects are represented as 2D tactile graphics. The translation from 3D to 2D representations benefits from direct, explicit instruction to help students develop a strong foundation for interpreting tactile graphics.
+
+
 ### Activity 5: Coming Soon
 ### Activity 6: Coming Soon
 
