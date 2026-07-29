@@ -35,7 +35,7 @@ This activity can be broken down into several elements for lesson planning.
 - Encourage students to work with partners if possible
 - Use legos to help with the concept of coordinate grids. Use the lego baseplate as the grid and each of the round studs can represent a point where two lines intersect.
 
-## Adventure Map: Activity 9
+## Adventure Map: Activity 3
 
 **Teaching tip:** Provide sufficient time for the student to explore, develop skills, and have fun at each step! Encouraging creativity and personal preferences for drawing as much as possible. Some students may be able to accomplish each step in one session; most students will need several sessions to complete the adventure.
 
