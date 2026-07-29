@@ -5,8 +5,6 @@ description: Tangible Art & Design Adventures by the Center for Assistive Techno
 
 # The TADA! Adventure Map
 
-[Print this page](https://www.printfriendly.com/print?url=https://github.com/aabdurmohammed-source/TADA/blob/main/adventure_map/04_ADVENTURE_MAP.md)
-
 *(The Tangible Art and Design Adventure Map)*
 
 ## Introductory Points of Interest
