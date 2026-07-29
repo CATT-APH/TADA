@@ -1,5 +1,5 @@
 ---
-title: "Activity 13, Advanced - Iterating on SVG Drawings & Beyond"
+title: "Activity 3, Advanced - Iterating on SVG Drawings & Beyond"
 description: Tangible Art & Design Adventures by the Center for Assistive Technology Training Northwest, WSSB
 ---
 
