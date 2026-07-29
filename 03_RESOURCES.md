@@ -27,4 +27,4 @@ Tactile world-building is an ongoing adventure. During and beyond this TADA! map
 
 ---
 
-**Previous:** [Foreword](02_FOREWORD.md) · **Next:** [Tada Adventure Map](adventure_map/04_ADVENTURE_MAP.md) · **Home:** [Home](README.md)
+**Previous:** [Foreword](02_FOREWORD.md) · **Next:** [Adventure Map](adventure_map/04_ADVENTURE_MAP.md) · **Home:** [Home](README.md)
