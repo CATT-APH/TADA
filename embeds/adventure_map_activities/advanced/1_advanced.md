@@ -1,5 +1,5 @@
 ---
-title: "Activity 11, Advanced - Intro to Spatial Mapping"
+title: "Activity 1, Advanced - Intro to Spatial Mapping"
 description: Tangible Art & Design Adventures by the Center for Assistive Technology Training Northwest, WSSB
 ---
 
