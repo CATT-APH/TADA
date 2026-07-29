@@ -1,13 +1,13 @@
 ---
-title: "Activity 10, Intermediate - Code Quest"
+title: "Activity 4, Intermediate - Code Quest"
 description: Tangible Art & Design Adventures by the Center for Assistive Technology Training Northwest, WSSB
 ---
 
-# Activity 10, Intermediate - Code Quest
+# Activity 4, Intermediate - Code Quest
 
 In this adventure, students will learn coding skills with CodeQuest, the free iPad app from APH. The students will program solutions to help the astronaut return to their spaceship.
 
-## Setup - Activity 10
+## Setup - Activity 4
 
 [Print this page](https://www.printfriendly.com/print?url=https://github.com/aabdurmohammed-source/TADA/blob/main/embeds/adventure_map_activities/intermediate/10_intermediate.md)
 
