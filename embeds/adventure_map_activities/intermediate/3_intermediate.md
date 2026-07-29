@@ -1,5 +1,5 @@
 ---
-title: "Activity 9, Intermediate - Drawing with Colby"
+title: "Activity 3, Intermediate - Drawing with Colby"
 description: Tangible Art & Design Adventures by the Center for Assistive Technology Training Northwest, WSSB
 ---
 
