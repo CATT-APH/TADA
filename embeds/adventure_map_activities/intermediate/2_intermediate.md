@@ -1,5 +1,5 @@
 ---
-title: "Activity 8, Intermediate - Colby's Mouse Town"
+title: "Activity 2, Intermediate - Colby's Mouse Town"
 description: Tangible Art & Design Adventures by the Center for Assistive Technology Training Northwest, WSSB
 ---
 
