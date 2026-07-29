@@ -40,4 +40,4 @@ Teachers who can use a visual interface might find it easier to create models in
 
 ---
 
-**Back to:** [Adventure Map](../../../04_ADVENTURE_MAP.md)
+**Back to:** [Adventure Map](../../../adventure_map/04_ADVENTURE_MAP.md)

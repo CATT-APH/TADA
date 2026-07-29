@@ -73,4 +73,4 @@ Once students are comfortable with the canvas space, get them excited for the ne
 
 ---
 
-**Back to:** [Adventure Map](../../../04_ADVENTURE_MAP.md)
+**Back to:** [Adventure Map](../../../adventure_map/04_ADVENTURE_MAP.md)
