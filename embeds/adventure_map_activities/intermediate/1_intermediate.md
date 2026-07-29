@@ -34,7 +34,7 @@ This activity can take several sessions. Students will need time to create the m
 - If students are having trouble identifying right and left according to the mouse's perspective. Try recreating the grid with foam mat floor tiles and have the student pretend to be Colby. The student can walk through the life-size course to get a better understanding of the mouse's perspective.
 - Allowing students to arrange these tiles to create their own grid, shape or "road" encourages the student to be creative. Taking the tactile diagram and "building" the diagram is another form of creativity. An advanced student could take this a step farther by creating their own Code and Go course then create their version of the accompanying Activity Card using graph paper and tactile materials.
 
-## Adventure Map: Activity 7
+## Adventure Map: Activity 1
 
 **Teaching tip:** Provide sufficient time for the student to explore, develop skills, and have fun at each step! Encouraging creativity and personal preferences for drawing as much as possible. Some students may be able to accomplish each step in one session; most students will need several sessions to complete the adventure.
 
