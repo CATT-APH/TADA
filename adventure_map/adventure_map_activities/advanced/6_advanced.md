@@ -165,4 +165,4 @@ Have students act out a "rotation", "translation" or "mirroring" with physical o
 
 ---
 
-**Previous:** [Activity A.2: Basic Shapes](5_advanced.md) · **Next:** [Activity B.1: Adding & Subtracting](7_advanced.md) · **Back to:** [Adventure Map](../../04_ADVENTURE_MAP.md)
+**Previous:** [Activity A.2: Basic Shapes](5_advanced.md) · [Download the whole thing](https://github.com/aabdurmohammed-source/TADA/archive/refs/heads/main.zip) · **Next:** [Activity B.1: Adding & Subtracting](7_advanced.md) · **Back to:** [Adventure Map](../../04_ADVENTURE_MAP.md)

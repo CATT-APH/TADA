@@ -23,6 +23,8 @@ By following the TADA! map, students can expect to:
 - Develop basic concepts for creating computer graphics
 - Apply creativity and resilience towards drafting, rendering, and revision processes
 
+<p align="center"><a href="https://github.com/aabdurmohammed-source/TADA/archive/refs/heads/main.zip">Download the whole thing (ZIP)</a></p>
+
 ## How to Use TADA!
 
 Any individual of any age and ability who may consider themself a student of art and design can benefit from this adventure map. Teachers may use this broadly as a curriculum with students of any age and skill level, with an emphasis on participation to any extent that is meaningful to the student. No aided perfection, please! We encourage all students to create to their heart's desire, and for teachers to embrace all efforts in the spirit of participation.

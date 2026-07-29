@@ -73,4 +73,4 @@ Once students are comfortable with the canvas space, get them excited for the ne
 
 ---
 
-**Next:** [Activity 2: Digitizing Drawings with SVG Code](2_advanced.md) · **Back to:** [Adventure Map](../../04_ADVENTURE_MAP.md)
+[Download the whole thing](https://github.com/aabdurmohammed-source/TADA/archive/refs/heads/main.zip) · **Next:** [Activity 2: Digitizing Drawings with SVG Code](2_advanced.md) · **Back to:** [Adventure Map](../../04_ADVENTURE_MAP.md)

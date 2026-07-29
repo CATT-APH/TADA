@@ -165,4 +165,4 @@ Programming of any sort is not easy. OpenSCAD is a little quirky relative to som
 
 ---
 
-**Previous:** [Activity B.2: Moving from 2D to 3D](8_advanced.md) · **Back to:** [Adventure Map](../../04_ADVENTURE_MAP.md)
+**Previous:** [Activity B.2: Moving from 2D to 3D](8_advanced.md) · [Download the whole thing](https://github.com/aabdurmohammed-source/TADA/archive/refs/heads/main.zip) · **Next:** [Section C: 3D Printable STEM Models](../../../embeds/resources_page/3D_PRINTABLE_STEM_RESOURCES.md) · **Back to:** [Adventure Map](../../04_ADVENTURE_MAP.md)

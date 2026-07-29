@@ -102,4 +102,4 @@ Thank you so much for exploring with us!
 
 ---
 
-**Previous:** [Activity 2: Digitizing Drawings with SVG Code](2_advanced.md) · **Next:** [2D to 3D Overview](2D3DOverview.md) · **Back to:** [Adventure Map](../../04_ADVENTURE_MAP.md)
+**Previous:** [Activity 2: Digitizing Drawings with SVG Code](2_advanced.md) · [Download the whole thing](https://github.com/aabdurmohammed-source/TADA/archive/refs/heads/main.zip) · **Next:** [2D to 3D Overview](2D3DOverview.md) · **Back to:** [Adventure Map](../../04_ADVENTURE_MAP.md)

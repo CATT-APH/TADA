@@ -1,9 +1,9 @@
 ---
-title: "Field Test: Creating 2D and 3D Tactile Math - Overview"
+title: "Creating 2D and 3D Tactile Math - Overview"
 description: Tangible Art & Design Adventures by the Center for Assistive Technology Training Northwest, WSSB
 ---
 
-# Field Test: Creating 2D and 3D Tactile Math - Overview
+# Creating 2D and 3D Tactile Math - Overview
 
 [Print this page](https://www.printfriendly.com/print?url=https://github.com/aabdurmohammed-source/TADA/blob/main/embeds/adventure_map_activities/advanced/2D3DOverview.md)
 
@@ -66,4 +66,4 @@ There are some efforts in the community (like [3D Make](https://github.com/tdeck
 
 ---
 
-**Previous:** [Activity 3: Iterating on SVG Drawings & Beyond](3_advanced.md) · **Next:** [Section A: Making 2D Shapes](2DIntro.md) · **Back to:** [Adventure Map](../../04_ADVENTURE_MAP.md)
+**Previous:** [Activity 3: Iterating on SVG Drawings & Beyond](3_advanced.md) · [Download the whole thing](https://github.com/aabdurmohammed-source/TADA/archive/refs/heads/main.zip) · **Next:** [Section A: Making 2D Shapes](2DIntro.md) · **Back to:** [Adventure Map](../../04_ADVENTURE_MAP.md)

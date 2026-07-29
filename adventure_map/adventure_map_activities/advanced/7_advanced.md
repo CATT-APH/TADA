@@ -191,4 +191,4 @@ You can find the full list, and the relevant parameters, on the [OpenSCAD "Mathe
 
 ---
 
-**Previous:** [Activity A.3: Rotating, Translating, Scaling](6_advanced.md) · **Next:** [Activity B.2: Moving from 2D to 3D](8_advanced.md) · **Back to:** [Adventure Map](../../04_ADVENTURE_MAP.md)
+**Previous:** [Activity A.3: Rotating, Translating, Scaling](6_advanced.md) · [Download the whole thing](https://github.com/aabdurmohammed-source/TADA/archive/refs/heads/main.zip) · **Next:** [Activity B.2: Moving from 2D to 3D](8_advanced.md) · **Back to:** [Adventure Map](../../04_ADVENTURE_MAP.md)

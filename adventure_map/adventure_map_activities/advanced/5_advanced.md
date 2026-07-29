@@ -92,4 +92,4 @@ This polygon can be as complex as we want. By default the first and last points 
 
 ---
 
-**Previous:** [Activity A.1: Create a Square](4_advanced.md) · **Next:** [Activity A.3: Rotating, Translating, Scaling](6_advanced.md) · **Back to:** [Adventure Map](../../04_ADVENTURE_MAP.md)
+**Previous:** [Activity A.1: Create a Square](4_advanced.md) · [Download the whole thing](https://github.com/aabdurmohammed-source/TADA/archive/refs/heads/main.zip) · **Next:** [Activity A.3: Rotating, Translating, Scaling](6_advanced.md) · **Back to:** [Adventure Map](../../04_ADVENTURE_MAP.md)

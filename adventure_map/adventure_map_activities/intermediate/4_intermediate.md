@@ -98,4 +98,4 @@ This activity can take several sessions. There are 30 levels within the CodeQues
 
 ---
 
-**Previous:** [Activity 3: Drawing with Colby](3_intermediate.md) · **Back to:** [Adventure Map](../../04_ADVENTURE_MAP.md)
+**Previous:** [Activity 3: Drawing with Colby](3_intermediate.md) · [Download the whole thing](https://github.com/aabdurmohammed-source/TADA/archive/refs/heads/main.zip) · **Back to:** [Adventure Map](../../04_ADVENTURE_MAP.md)

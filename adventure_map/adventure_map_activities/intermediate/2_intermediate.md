@@ -82,4 +82,4 @@ This activity can be broken down into several elements for lesson planning.
 
 ---
 
-**Previous:** [Activity 1: Code & Go Mouse](1_intermediate.md) · **Next:** [Activity 3: Drawing with Colby](3_intermediate.md) · **Back to:** [Adventure Map](../../04_ADVENTURE_MAP.md)
+**Previous:** [Activity 1: Code & Go Mouse](1_intermediate.md) · [Download the whole thing](https://github.com/aabdurmohammed-source/TADA/archive/refs/heads/main.zip) · **Next:** [Activity 3: Drawing with Colby](3_intermediate.md) · **Back to:** [Adventure Map](../../04_ADVENTURE_MAP.md)

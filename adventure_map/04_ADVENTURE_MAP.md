@@ -7,6 +7,7 @@ description: Tangible Art & Design Adventures by the Center for Assistive Techno
 
 *(The Tangible Art and Design Adventure Map)*
 
+<a name="beginner-pois"></a>
 ## Introductory Points of Interest
 
 ### [Activity 1: Introduction to Tactile Graphics](adventure_map_activities/beginner/1_beginner.md)
@@ -31,6 +32,7 @@ Develop strategies for creating pixel art using a grid, braille, and textured pa
 ### Activity 5: Coming Soon
 ### Activity 6: Coming Soon
 
+<a name="intermediate-pois"></a>
 ## Intermediate Points of Interest
 
 ### [Activity 1: Code & Go Mouse](adventure_map_activities/intermediate/1_intermediate.md)
@@ -53,7 +55,10 @@ Learn coding skills with CodeQuest, a free iPad app from APH. Program solutions 
 
 **Goals:** Apply new coding skills to complete an adventure. Use a computer with a text editor program; open and navigate .svg files, alter .svg code to achieve desired outcomes; build confidence with troubleshooting and iterative design processes.
 
+<a name="advanced-pois"></a>
 ## Advanced Points of Interest
+
+### Intro to SVG
 
 ### [Activity 1: Intro to Spatial Mapping](adventure_map_activities/advanced/1_advanced.md)
 Practice using a coordinate plane to map SVG canvas units to paper. Draw basic shapes on graph paper and explore how to mark and measure shapes.
@@ -68,19 +73,21 @@ Learn SVG code basics. Translate physical drawings to digital illustrations. Exp
 ### [Activity 3: Iterating on SVG Drawings and Beyond](adventure_map_activities/advanced/3_advanced.md)
 Iterate (repeatedly produce) digital designs, change shapes as desired, and practice using SVG syntax to prepare for more advanced coding and drawing skills. Use rendered tactile graphics as a means to draft and revise designs.
 
-### [Moving from 2D to 3D Design (Overview of Activities 4–9)](adventure_map_activities/advanced/2D3DOverview.md)
+### [Activity 14: Moving from 2D to 3D design](adventure_map_activities/advanced/2D3DOverview.md)
 
-### [Section A: Making 2D Shapes in OpenSCAD (Introduction to Activities 14–16)](adventure_map_activities/advanced/2DIntro.md)
+### [Section A: Making 2D Shapes in OpenSCAD](adventure_map_activities/advanced/2DIntro.md)
 
 - [Activity A.1. Create a Square in OpenSCAD](adventure_map_activities/advanced/4_advanced.md)
 - [Activity A.2. Basic Shapes in OpenSCAD](adventure_map_activities/advanced/5_advanced.md)
 - [Activity A.3. Rotating, Translating, Scaling and Mirroring Shapes](adventure_map_activities/advanced/6_advanced.md)
 
-### Programming in OpenSCAD — Section B
+### Activity 15: Programming in OpenSCAD — Section B
 
 - [Activity B.1. Adding and Subtracting Objects](adventure_map_activities/advanced/7_advanced.md)
 - [Activity B.2. Moving from 2D to 3D](adventure_map_activities/advanced/8_advanced.md)
 - [Activity B.3. True 3D Models](adventure_map_activities/advanced/9_advanced.md)
+
+### [Section C: Guide to Published 3D Printable STEM Models](../embeds/resources_page/3D_PRINTABLE_STEM_RESOURCES.md)
 
 ---
 

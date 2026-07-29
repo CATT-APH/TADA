@@ -53,4 +53,4 @@ Existing SVG files can be imported into OpenSCAD, as described on the [OpenSCAD 
 
 ---
 
-**Previous:** [Section A: Making 2D Shapes](2DIntro.md) · **Next:** [Activity A.2: Basic Shapes](5_advanced.md) · **Back to:** [Adventure Map](../../04_ADVENTURE_MAP.md)
+**Previous:** [Section A: Making 2D Shapes](2DIntro.md) · [Download the whole thing](https://github.com/aabdurmohammed-source/TADA/archive/refs/heads/main.zip) · **Next:** [Activity A.2: Basic Shapes](5_advanced.md) · **Back to:** [Adventure Map](../../04_ADVENTURE_MAP.md)

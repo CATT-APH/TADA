@@ -40,4 +40,4 @@ Teachers who can use a visual interface might find it easier to create models in
 
 ---
 
-**Previous:** [2D to 3D Overview](2D3DOverview.md) · **Next:** [Activity A.1: Create a Square](4_advanced.md) · **Back to:** [Adventure Map](../../04_ADVENTURE_MAP.md)
+**Previous:** [2D to 3D Overview](2D3DOverview.md) · [Download the whole thing](https://github.com/aabdurmohammed-source/TADA/archive/refs/heads/main.zip) · **Next:** [Activity A.1: Create a Square](4_advanced.md) · **Back to:** [Adventure Map](../../04_ADVENTURE_MAP.md)
