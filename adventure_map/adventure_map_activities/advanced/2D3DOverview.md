@@ -66,4 +66,4 @@ There are some efforts in the community (like [3D Make](https://github.com/tdeck
 
 ---
 
-**Back to:** [Adventure Map](../../../adventure_map/04_ADVENTURE_MAP.md)
+**Back to:** [Adventure Map](../../04_ADVENTURE_MAP.md)

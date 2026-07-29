@@ -80,4 +80,4 @@ This activity can take several sessions. Students will need time to create the m
 
 ---
 
-**Back to:** [Adventure Map](../../../adventure_map/04_ADVENTURE_MAP.md)
+**Back to:** [Adventure Map](../../04_ADVENTURE_MAP.md)

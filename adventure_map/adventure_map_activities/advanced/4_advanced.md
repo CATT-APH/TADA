@@ -53,4 +53,4 @@ Existing SVG files can be imported into OpenSCAD, as described on the [OpenSCAD 
 
 ---
 
-**Back to:** [Adventure Map](../../../adventure_map/04_ADVENTURE_MAP.md)
+**Back to:** [Adventure Map](../../04_ADVENTURE_MAP.md)

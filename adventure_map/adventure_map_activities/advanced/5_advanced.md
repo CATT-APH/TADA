@@ -92,4 +92,4 @@ This polygon can be as complex as we want. By default the first and last points 
 
 ---
 
-**Back to:** [Adventure Map](../../../adventure_map/04_ADVENTURE_MAP.md)
+**Back to:** [Adventure Map](../../04_ADVENTURE_MAP.md)

@@ -102,4 +102,4 @@ Thank you so much for exploring with us!
 
 ---
 
-**Back to:** [Adventure Map](../../../adventure_map/04_ADVENTURE_MAP.md)
+**Back to:** [Adventure Map](../../04_ADVENTURE_MAP.md)

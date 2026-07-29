@@ -79,4 +79,4 @@ rotate_extrude(angle = 270) translate([25, 0, 0]) circle(20);
 
 ---
 
-**Back to:** [Adventure Map](../../../adventure_map/04_ADVENTURE_MAP.md)
+**Back to:** [Adventure Map](../../04_ADVENTURE_MAP.md)

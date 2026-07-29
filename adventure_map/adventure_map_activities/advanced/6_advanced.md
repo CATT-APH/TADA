@@ -165,4 +165,4 @@ Have students act out a "rotation", "translation" or "mirroring" with physical o
 
 ---
 
-**Back to:** [Adventure Map](../../../adventure_map/04_ADVENTURE_MAP.md)
+**Back to:** [Adventure Map](../../04_ADVENTURE_MAP.md)
