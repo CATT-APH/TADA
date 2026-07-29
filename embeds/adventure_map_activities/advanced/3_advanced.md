@@ -3,7 +3,7 @@ title: "Activity 3, Advanced - Iterating on SVG Drawings & Beyond"
 description: Tangible Art & Design Adventures by the Center for Assistive Technology Training Northwest, WSSB
 ---
 
-# Activity 13, Advanced - Iterating on SVG Drawings & Beyond
+# Activity 3, Advanced - Iterating on SVG Drawings & Beyond
 
 [Print this page](https://www.printfriendly.com/print?url=https://github.com/aabdurmohammed-source/TADA/blob/main/embeds/adventure_map_activities/advanced/13_advanced.md)
 
@@ -13,7 +13,7 @@ This adventure will involve computer use, text editor navigation and text editin
 
 These tasks should be able to be repeated for each change to the SVG file code and the previous embossed or tactile output retained to compare and contrast the differences between the previous drawing output and the current iteration. Students should be able to discern how the numbers and changes they've made are affecting the output and should be able to enjoy experimenting with subtle and big changes to help spatially map the code to what they are feeling with the tactile output.
 
-## Setup - Activity 13
+## Setup - Activity 3
 
 This activity can be broken down into several elements for lesson planning.
 
@@ -39,7 +39,7 @@ This activity can be broken down into several elements for lesson planning.
 - Use Swell-form if available for final output.
 - If no other tactile output methods are available, print drawings out on basic printers and set print setting to flip the drawing horizontally so it prints out a mirror image. Place this print on a Draftsman and trace the resulting image with a pen for the student, embossing the image and making it appear exactly as intended when the paper is flipped around to expose the embossed lines for the student.
 
-## Adventure Map: Activity 13
+## Adventure Map: Activity 3
 
 **Teaching tip:** Provide sufficient time for the student to explore, develop skills, and have fun at each step! Encouraging creativity and personal preferences for drawing as much as possible. Some students may be able to accomplish each step in one session; most students will need several sessions to complete the adventure. This is a very technical part of the adventure, and this may become frustrating depending on the technical aptitude of the students and their screen reader/magnification skills. Please give them enough time and space to solve for technical bugs and typing errors; Google Chrome will do a basic debug of SVG code and tell the student what lines have errors when opening the SVG within the browser.
 
