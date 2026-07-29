@@ -1,5 +1,5 @@
 ---
-title: "Activity 7, Intermediate - Code & Go Mouse"
+title: "Activity 1, Intermediate - Code & Go Mouse"
 description: Tangible Art & Design Adventures by the Center for Assistive Technology Training Northwest, WSSB
 ---
 
