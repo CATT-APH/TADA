@@ -3,7 +3,7 @@ title: "Activity 2, Advanced - Digitizing Drawings with SVG Code"
 description: Tangible Art & Design Adventures by the Center for Assistive Technology Training Northwest, WSSB
 ---
 
-# Activity 12, Advanced - Digitizing Drawings with SVG Code
+# Activity 2, Advanced - Digitizing Drawings with SVG Code
 
 [Print this page](https://www.printfriendly.com/print?url=https://github.com/aabdurmohammed-source/TADA/blob/main/embeds/adventure_map_activities/advanced/12_advanced.md)
 
@@ -11,7 +11,7 @@ In this activity, students will get their hands on SVG code and learn how to ren
 
 This activity will involve computer use, text editor navigation and text editing/input, being able to open the finished SVG files in Google Chrome or Mozilla Firefox, and outputting via any tactile method.
 
-## Setup - Activity 12
+## Setup - Activity 2
 
 This activity can be broken down into several elements for lesson planning.
 
@@ -45,7 +45,7 @@ This activity can be broken down into several elements for lesson planning.
 - Use Swell-form if available for final output.
 - If no other tactile output methods are available, print drawings out on basic printers and set print setting to flip the drawing horizontally so it prints out a mirror image. Place this print on a Draftsman and trace the resulting image with a pen for the student, embossing the image and making it appear exactly as intended when the paper is flipped around to expose the embossed lines for the student.
 
-## Adventure Map: Activity 12
+## Adventure Map: Activity 2
 
 **Teaching tip:** Provide sufficient time for the student to explore, develop skills, and have fun at each step! Encouraging creativity and personal preferences for drawing as much as possible. Some students may be able to accomplish each step in one session; most students will need several sessions to complete the adventure. This is a very technical part of the adventure, and this may become frustrating depending on the technical aptitude of the students and their screen reader/magnification skills. Please give them enough time and space to solve for technical bugs and typing errors; Google Chrome will do a basic debug of SVG code and tell the student what lines have errors when opening the SVG within the browser.
 
