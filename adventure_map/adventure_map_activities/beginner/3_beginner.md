@@ -77,4 +77,4 @@ This activity can be broken down into several elements for lesson planning.
 
 ---
 
-**Back to:** [Adventure Map](../../04_ADVENTURE_MAP.md)
+**Previous:** [Activity 2: Descriptive Language and Drawing](2_beginner.md) · **Next:** [Activity 4: Moving from 3D to 2D](4_beginner.md) · **Back to:** [Adventure Map](../../04_ADVENTURE_MAP.md)

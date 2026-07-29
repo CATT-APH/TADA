@@ -105,4 +105,4 @@ This activity can be broken down into several elements for lesson planning.
 
 ---
 
-**Back to:** [Adventure Map](../../04_ADVENTURE_MAP.md)
+**Previous:** [Activity 2: Colby's Mouse Town](2_intermediate.md) · **Next:** [Activity 4: Code Quest](4_intermediate.md) · **Back to:** [Adventure Map](../../04_ADVENTURE_MAP.md)

@@ -79,4 +79,4 @@ rotate_extrude(angle = 270) translate([25, 0, 0]) circle(20);
 
 ---
 
-**Back to:** [Adventure Map](../../04_ADVENTURE_MAP.md)
+**Previous:** [Activity B.1: Adding & Subtracting](7_advanced.md) · **Next:** [Activity B.3: True 3D Models](9_advanced.md) · **Back to:** [Adventure Map](../../04_ADVENTURE_MAP.md)

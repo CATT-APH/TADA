@@ -66,4 +66,4 @@ There are some efforts in the community (like [3D Make](https://github.com/tdeck
 
 ---
 
-**Back to:** [Adventure Map](../../04_ADVENTURE_MAP.md)
+**Previous:** [Activity 3: Iterating on SVG Drawings & Beyond](3_advanced.md) · **Next:** [Section A: Making 2D Shapes](2DIntro.md) · **Back to:** [Adventure Map](../../04_ADVENTURE_MAP.md)

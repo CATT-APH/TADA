@@ -101,4 +101,4 @@ This will give them information about SVG coding, how to set up their first SVG 
 
 ---
 
-**Back to:** [Adventure Map](../../04_ADVENTURE_MAP.md)
+**Previous:** [Activity 1: Intro to Spatial Mapping](1_advanced.md) · **Next:** [Activity 3: Iterating on SVG Drawings & Beyond](3_advanced.md) · **Back to:** [Adventure Map](../../04_ADVENTURE_MAP.md)

@@ -1,5 +1,7 @@
 # **Moving from 3D to 2D: Basic Shapes** 
 
+[Print this page](https://www.printfriendly.com/print?url=https://github.com/aabdurmohammed-source/TADA/blob/main/adventure_map/adventure_map_activities/beginner/4_beginner.md)
+
 In this activity, students will learn how 3D objects are represented as 2D tactile graphics. The translation from 3D to 2D representations benefits from direct, explicit instruction to help students develop a strong foundation for interpreting tactile graphics.
 
 ## **Setup: 3D to 2D Shapes**
@@ -117,4 +119,8 @@ This activity can be broken down into several elements for lesson planning.
 ![An articulated model is created from cardboard shapes that resemble each limb (forearm, upper arm, neck, torso, head, hips, thighs, and lower leg with foot. Each limb is connected at the joint with a brass paper fastener][image1]  
 
 
-[image1]: 
+[image1]: ../../../embeds/articulated_model.png
+
+---
+
+**Previous:** [Activity 3: Tactile Colors](3_beginner.md) · **Back to:** [Adventure Map](../../04_ADVENTURE_MAP.md)

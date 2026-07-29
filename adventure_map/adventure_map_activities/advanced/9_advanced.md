@@ -165,4 +165,4 @@ Programming of any sort is not easy. OpenSCAD is a little quirky relative to som
 
 ---
 
-**Back to:** [Adventure Map](../../04_ADVENTURE_MAP.md)
+**Previous:** [Activity B.2: Moving from 2D to 3D](8_advanced.md) · **Back to:** [Adventure Map](../../04_ADVENTURE_MAP.md)

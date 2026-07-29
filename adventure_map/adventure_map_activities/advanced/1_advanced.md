@@ -73,4 +73,4 @@ Once students are comfortable with the canvas space, get them excited for the ne
 
 ---
 
-**Back to:** [Adventure Map](../../04_ADVENTURE_MAP.md)
+**Next:** [Activity 2: Digitizing Drawings with SVG Code](2_advanced.md) · **Back to:** [Adventure Map](../../04_ADVENTURE_MAP.md)

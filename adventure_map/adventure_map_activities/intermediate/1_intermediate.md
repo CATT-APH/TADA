@@ -80,4 +80,4 @@ This activity can take several sessions. Students will need time to create the m
 
 ---
 
-**Back to:** [Adventure Map](../../04_ADVENTURE_MAP.md)
+**Next:** [Activity 2: Colby's Mouse Town](2_intermediate.md) · **Back to:** [Adventure Map](../../04_ADVENTURE_MAP.md)
