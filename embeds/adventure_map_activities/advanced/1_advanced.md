@@ -3,13 +3,13 @@ title: "Activity 1, Advanced - Intro to Spatial Mapping"
 description: Tangible Art & Design Adventures by the Center for Assistive Technology Training Northwest, WSSB
 ---
 
-# Activity 11, Advanced - Intro to Spatial Mapping
+# Activity 1, Advanced - Intro to Spatial Mapping
 
 [Print this page](https://www.printfriendly.com/print?url=https://github.com/aabdurmohammed-source/TADA/blob/main/embeds/adventure_map_activities/advanced/11_advanced.md)
 
 In this adventure, students will begin mapping the SVG Canvas units to physical and tangible drawing surfaces utilizing tactile drawing paper. Students will draw basic shapes on tactile dot or graph paper and understand how to mark and understand shape positions around the canvas and measure the dimensions of their shapes.
 
-## Setup - Activity 11
+## Setup - Activity 1
 
 This activity can be broken down into several elements for lesson planning.
 
@@ -37,7 +37,7 @@ This activity can be broken down into several elements for lesson planning.
 - Use basic shapes at first, offer up suggestions like making a circle 150 units in diameter, squares and rectangles of various sizes,and try connecting various dots together with lines to make triangles and polygons.
 - If a student wants to progress further than basic shapes, encourage them to build a scene using various shapes and straight lines.
 
-## Adventure Map: Activity 11
+## Adventure Map: Activity 1
 
 **Teaching tip:** Provide sufficient time for the student to explore, develop skills, and have fun at each step! Encouraging creativity and personal preferences for drawing as much as possible. Some students may be able to accomplish each step in one session; most students will need several sessions to complete the adventure.
 
