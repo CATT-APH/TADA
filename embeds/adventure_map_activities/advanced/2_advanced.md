@@ -1,5 +1,5 @@
 ---
-title: "Activity 12, Advanced - Digitizing Drawings with SVG Code"
+title: "Activity 2, Advanced - Digitizing Drawings with SVG Code"
 description: Tangible Art & Design Adventures by the Center for Assistive Technology Training Northwest, WSSB
 ---
 
