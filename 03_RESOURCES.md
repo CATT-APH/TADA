@@ -25,6 +25,13 @@ Tactile world-building is an ongoing adventure. During and beyond this TADA! map
 - [Abigale Stangl, Ph.D — Georgia Institute of Technology](https://abigalestangl.com/)
 - [Advanced Activities Section C: 3D Printable STEM Resources](embeds/resources_page/3D_PRINTABLE_STEM_RESOURCES.md)
 
+## Printables
+
+- [For Steps End](embeds/For-Steps-End.pdf)
+- [Forward](embeds/Forward.pdf)
+- [If There is a Wall in Front of Me](embeds/If-there%20is%20a%20wall-in%20front%20of%20me.pdf)
+- [Turn Left-Turn Right](embeds/Turn%20Left-Turn%20Right.pdf)
+
 ---
 
 **Previous:** [Foreword](02_FOREWORD.md) · **Next:** [Adventure Map](adventure_map/04_ADVENTURE_MAP.md) · **Home:** [Home](README.md)
