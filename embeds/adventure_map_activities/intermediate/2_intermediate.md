@@ -36,7 +36,7 @@ This activity can be broken down into several elements for lesson planning.
 
 - Encourage students to work with partners if possible
 
-## Adventure Map: Activity 8
+## Adventure Map: Activity 2
 
 **Teaching tip:** Provide sufficient time for the student to explore, develop skills, and have fun at each step! Encouraging creativity and personal preferences for drawing as much as possible. Some students may be able to accomplish each step in one session; most students will need several sessions to complete the adventure.
 
