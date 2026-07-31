@@ -1,1 +1,39 @@
+name: Build PDFs from Markdown
 
+on:
+  push:
+    branches: [main]
+    paths:
+      - '**/*.md'
+
+jobs:
+  build-pdfs:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Install Pandoc and PDF engine
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive-xetex
+
+      - name: Convert Markdown files to PDF
+        run: |
+          mkdir -p pdf
+          find . -name "*.md" -not -path "./pdf/*" | while read -r file; do
+            rel="${file#./}"
+            out="pdf/${rel%.md}.pdf"
+            mkdir -p "$(dirname "$out")"
+            pandoc "$file" -o "$out" --pdf-engine=xelatex --resource-path=.
+          done
+
+      - name: Commit generated PDFs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add pdf/
+          git diff --cached --quiet || git commit -m "Auto-generate PDFs from Markdown"
+          git push
