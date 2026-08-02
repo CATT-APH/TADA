@@ -1,6 +1,6 @@
 # **Moving from 3D to 2D: Basic Shapes** 
 
-[Print this page](https://www.printfriendly.com/print?url=https://github.com/aabdurmohammed-source/TADA/blob/main/adventure_map/adventure_map_activities/beginner/4_beginner.md)
+[Download this activity](../../../pdf/adventure_map/adventure_map_activities/beginner/4_beginner.pdf)
 
 In this activity, students will learn how 3D objects are represented as 2D tactile graphics. The translation from 3D to 2D representations benefits from direct, explicit instruction to help students develop a strong foundation for interpreting tactile graphics.
 
