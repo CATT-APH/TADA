@@ -9,6 +9,8 @@ description: Tangible Art & Design Adventures by the Center for Assistive Techno
 
 ## Introductory Points of Interest
 
+[Download all Beginner activities](../pdf/beginner-bundle.pdf)
+
 ### [Activity 1: Introduction to Tactile Graphics](adventure_map_activities/beginner/1_beginner.md)
 Introduction to tactile graphics and art, with an emphasis on hands-on learning and creativity while introducing the idea of using technology to create tactile graphics.
 
@@ -33,6 +35,8 @@ Develop strategies for creating pixel art using a grid, braille, and textured pa
 
 ## Intermediate Points of Interest
 
+[Download all Intermediate activities](../pdf/intermediate-bundle.pdf)
+
 ### [Activity 1: Code & Go Mouse](adventure_map_activities/intermediate/1_intermediate.md)
 Play with Colby the programmable robot mouse from APH while incorporating spatial concepts in real life. Practice sequencing and mapping while having fun.
 
@@ -51,9 +55,11 @@ Plan and use Colby's path to create shapes. Use coordinates on a coordinate grid
 ### [Activity 4: CodeQuest](adventure_map_activities/intermediate/4_intermediate.md)
 Learn coding skills with CodeQuest, a free iPad app from APH. Program solutions to help the astronaut return to their spaceship.
 
-**Goals:** Apply new coding skills to complete an adventure. Use a computer with a text editor program; open and navigate .svg files, alter .svg code to achieve desired outcomes; build confidence with troubleshooting and iterative design processes.
+**Goals:** Apply new coding skills to complete an adventure. Use a computer with a text editor program; open and navigate .svg files; alter .svg code to achieve desired outcomes; build confidence with troubleshooting and iterative design processes.
 
 ## Advanced Points of Interest
+
+[Download all Advanced activities](../pdf/advanced-bundle.pdf)
 
 ### Intro to SVG
 
