@@ -9,7 +9,7 @@ In this adventure, students will learn coding skills with CodeQuest, the free iP
 
 ## Setup - Activity 4
 
-[Print this page](https://www.printfriendly.com/print?url=https://github.com/aabdurmohammed-source/TADA/blob/main/embeds/adventure_map_activities/intermediate/10_intermediate.md)
+[Download this activity](../../../pdf/adventure_map/adventure_map_activities/intermediate/4_intermediate.pdf)
 
 This activity can take several sessions. There are 30 levels within the CodeQuest app. Not all levels need to be completed. The levels start out easy and get harder as the student progresses. Students have the opportunity to work with tactile maps, 3D objects, and technology, ensuring a multi-sensory learning experience that caters to different learning styles and abilities. They are encouraged to take their time, be creative, and experiment with different solutions, fostering a sense of ownership over their code.
 
