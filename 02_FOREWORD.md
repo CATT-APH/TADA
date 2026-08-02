@@ -1,5 +1,5 @@
 ---
-title: Foreword
+title: Foreword 
 description: Tangible Art & Design Adventures Foreword by the Center for Assistive Technology Training Northwest, WSSB 
 ---
 
