@@ -5,7 +5,7 @@ description: Tangible Art & Design Adventures by the Center for Assistive Techno
 
 # Section A: Making 2D Shapes in OpenSCAD
 
-[Print this page](https://www.printfriendly.com/print?url=https://github.com/aabdurmohammed-source/TADA/blob/main/embeds/adventure_map_activities/advanced/2DIntro.md)
+[Download this activity](../../../pdf/adventure_map/adventure_map_activities/advanced/2DIntro.pdf)
 
 These activities show you how to use the OpenSCAD program to create 2D shapes and directly export them as an SVG. OpenSCAD is an open-source, free computer-aided design (CAD) program. It can create 2D shapes in SVG or DXF format (laser/vinyl cutters and embossers), and 3D shapes for 3D printing. This activity focuses on very basic activities. The activities in the "Programming in OpenSCAD" section discuss OpenSCAD and its features in more depth. We also provide links to more resources about coding in general there.
 
