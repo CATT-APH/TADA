@@ -5,7 +5,7 @@ description: Tangible Art & Design Adventures by the Center for Assistive Techno
 
 # Activity B.2. Moving from 2D to 3D
 
-[Print this page](https://www.printfriendly.com/print?url=https://github.com/aabdurmohammed-source/TADA/blob/main/embeds/adventure_map_activities/advanced/18_advanced.md)
+[Download this activity](../../../pdf/adventure_map/adventure_map_activities/advanced/8_advanced.pdf)
 
 Everything we have seen so far has been aimed at two dimensions, creating an output in SVG format for a 2D tactile drawing. Now, we will move on to 3D objects for a 3D printer. OpenSCAD has 3D shapes that correspond to the 2D one (for example, sphere versus circle) and we will get to those in the next Activity. The easiest transformation is to just extrude the shape into the third dimension.
 
