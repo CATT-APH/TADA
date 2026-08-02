@@ -5,7 +5,7 @@ description: Tangible Art & Design Adventures by the Center for Assistive Techno
 
 # Activity 2, Beginner - Descriptive Language and Drawing
 
-[Print this page](https://www.printfriendly.com/print?url=https://github.com/aabdurmohammed-source/TADA/blob/main/embeds/adventure_map_activities/beginner/02_beginner.md)
+[Download this activity](../../../pdf/adventure_map/adventure_map_activities/beginner/2_beginner.pdf)
 
 In this adventure, students will explore the intersection of descriptive language and tactile graphics. Students will explore how being specific and precise in creating directions is important in the creation of tactile graphics.
 
