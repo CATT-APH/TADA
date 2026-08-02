@@ -5,7 +5,7 @@ description: Tangible Art & Design Adventures by the Center for Assistive Techno
 
 # Activity 1, Intermediate - Code & Go Mouse 
 
-[Print this page](https://www.printfriendly.com/print?url=https://github.com/aabdurmohammed-source/TADA/blob/main/embeds/adventure_map_activities/intermediate/07_intermediate.md)
+[Download this activity](../../../pdf/adventure_map/adventure_map_activities/intermediate/1_intermediate.pdf)
 
 In this adventure, students will learn coding skills with Colby, the programmable robot mouse from APH. The students will program the sequence of steps and Colby will race to find the cheese.
 
