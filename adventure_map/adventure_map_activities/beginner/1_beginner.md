@@ -5,7 +5,7 @@ description: Tangible Art & Design Adventures by the Center for Assistive Techno
 
 # Lesson 1, Beginner - Intro to Tactile Graphics
 
-[Print this page](https://www.printfriendly.com/print?url=https://github.com/aabdurmohammed-source/TADA/blob/main/embeds/adventure_map_activities/beginner/01_beginner.md)
+[Download this activity](../../../pdf/adventure_map/adventure_map_activities/beginner/1_beginner.pdf)
 
 
 This adventure introduces tactile graphics and art, emphasizing hands-on learning and creativity while introducing the idea of using technology to create tactile graphics. It aims to develop motor skills, spatial awareness, and appreciation for accessible art.
