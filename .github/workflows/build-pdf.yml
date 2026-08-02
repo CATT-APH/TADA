@@ -18,7 +18,7 @@ jobs:
       - name: Install Pandoc and PDF engine
         run: |
           sudo apt-get update
-          sudo apt-get install -y pandoc texlive-xetex librsvg2-bin imagemagick python3
+          sudo apt-get install -y pandoc texlive-xetex librsvg2-bin imagemagick python3 poppler-utils
 
       - name: Flatten transparent PNGs (xelatex can't handle alpha channel)
         run: |
@@ -72,6 +72,38 @@ jobs:
             mkdir -p "$(dirname "$out")"
             pandoc "$file" -o "$out" --pdf-engine=xelatex --resource-path=.
           done
+
+      - name: Bundle each tier's activities into one combined PDF
+        run: |
+          BASE=adventure_map/adventure_map_activities
+
+          pdfunite \
+            "pdf/$BASE/beginner/1_beginner.pdf" \
+            "pdf/$BASE/beginner/2_beginner.pdf" \
+            "pdf/$BASE/beginner/3_beginner.pdf" \
+            "pdf/$BASE/beginner/4_beginner.pdf" \
+            pdf/beginner-bundle.pdf
+
+          pdfunite \
+            "pdf/$BASE/intermediate/1_intermediate.pdf" \
+            "pdf/$BASE/intermediate/2_intermediate.pdf" \
+            "pdf/$BASE/intermediate/3_intermediate.pdf" \
+            "pdf/$BASE/intermediate/4_intermediate.pdf" \
+            pdf/intermediate-bundle.pdf
+
+          pdfunite \
+            "pdf/$BASE/advanced/1_advanced.pdf" \
+            "pdf/$BASE/advanced/2_advanced.pdf" \
+            "pdf/$BASE/advanced/3_advanced.pdf" \
+            "pdf/$BASE/advanced/2D3DOverview.pdf" \
+            "pdf/$BASE/advanced/2DIntro.pdf" \
+            "pdf/$BASE/advanced/4_advanced.pdf" \
+            "pdf/$BASE/advanced/5_advanced.pdf" \
+            "pdf/$BASE/advanced/6_advanced.pdf" \
+            "pdf/$BASE/advanced/7_advanced.pdf" \
+            "pdf/$BASE/advanced/8_advanced.pdf" \
+            "pdf/$BASE/advanced/9_advanced.pdf" \
+            pdf/advanced-bundle.pdf
 
       - name: Commit generated PDFs
         run: |
