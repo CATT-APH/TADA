@@ -1,6 +1,6 @@
 name: Build PDFs from Markdown
 
-on:
+"on":
   push:
     branches: [main]
     paths:
@@ -18,7 +18,7 @@ jobs:
       - name: Install Pandoc and PDF engine
         run: |
           sudo apt-get update
-          sudo apt-get install -y pandoc texlive-xetex
+          sudo apt-get install -y pandoc texlive-xetex librsvg2-bin
 
       - name: Convert Markdown files to PDF
         run: |
