@@ -5,7 +5,7 @@ description: Tangible Art & Design Adventures by the Center for Assistive Techno
 
 # Creating 2D and 3D Tactile Math - Overview
 
-[Print this page](https://www.printfriendly.com/print?url=https://github.com/aabdurmohammed-source/TADA/blob/main/embeds/adventure_map_activities/advanced/2D3DOverview.md)
+[Download this activity](../../../pdf/adventure_map/adventure_map_activities/advanced/2D3DOverview.pdf)
 
 *© 2025 Joan Horvath and Rich Cameron, [Nonscriptum LLC](http://nonscriptum.com) May 7, 2025*
 *Released under a [Creative Commons CC-BY International 4.0 License](https://creativecommons.org/licenses/by/4.0/deed.en). You may freely share and adapt as long as you keep this notice and attribution to the authors. Supported by a grant from the Northwest Center for Technology Training (CATT-NW) at Washington State School for the Blind.*
