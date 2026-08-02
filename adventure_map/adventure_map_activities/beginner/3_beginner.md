@@ -5,7 +5,7 @@ description: Tangible Art & Design Adventures by the Center for Assistive Techno
 
 # Activity 3, Beginner - Tactile Colors
 
-[Print this page](https://www.printfriendly.com/print?url=https://github.com/aabdurmohammed-source/TADA/blob/main/embeds/adventure_map_activities/beginner/03_beginner.md)
+[Download this activity](../../../pdf/adventure_map/adventure_map_activities/beginner/3_beginner.pdf)
 
 In this adventure, students will create pixel art using a grid, braille and textured paper. They will learn about color and using a key while developing tactile discrimination skills.
 
