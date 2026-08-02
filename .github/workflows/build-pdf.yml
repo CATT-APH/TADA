@@ -18,7 +18,13 @@ jobs:
       - name: Install Pandoc and PDF engine
         run: |
           sudo apt-get update
-          sudo apt-get install -y pandoc texlive-xetex librsvg2-bin
+          sudo apt-get install -y pandoc texlive-xetex librsvg2-bin imagemagick
+
+      - name: Flatten transparent PNGs (xelatex can't handle alpha channel)
+        run: |
+          find . -iname "*.png" -not -path "./pdf/*" -not -path "./.git/*" | while read -r img; do
+            mogrify -background white -alpha remove -alpha off "$img"
+          done
 
       - name: Convert Markdown files to PDF
         run: |
