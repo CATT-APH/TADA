@@ -18,13 +18,50 @@ jobs:
       - name: Install Pandoc and PDF engine
         run: |
           sudo apt-get update
-          sudo apt-get install -y pandoc texlive-xetex librsvg2-bin imagemagick
+          sudo apt-get install -y pandoc texlive-xetex librsvg2-bin imagemagick python3
 
       - name: Flatten transparent PNGs (xelatex can't handle alpha channel)
         run: |
           find . -iname "*.png" -not -path "./pdf/*" -not -path "./.git/*" | while read -r img; do
             mogrify -background white -alpha remove -alpha off "$img"
           done
+
+      - name: Replace broken remote images with alt text
+        run: |
+          python3 << 'PYEOF'
+          import re, urllib.request, glob
+
+          pattern = re.compile(r'!\[([^\]]*)\]\((https?://[^\)]+)\)')
+
+          def is_broken(url):
+              try:
+                  req = urllib.request.Request(url, method='HEAD')
+                  with urllib.request.urlopen(req, timeout=10) as resp:
+                      return resp.status >= 400
+              except Exception:
+                  return True
+
+          checked = {}
+          for path in glob.glob('**/*.md', recursive=True):
+              if path.startswith('pdf/'):
+                  continue
+              with open(path, 'r', encoding='utf-8') as f:
+                  content = f.read()
+
+              def replace(m):
+                  alt, url = m.group(1), m.group(2)
+                  if url not in checked:
+                      checked[url] = is_broken(url)
+                  if checked[url]:
+                      print(f"Broken image in {path}: {url}")
+                      return f"*{alt}*" if alt else "*[image unavailable]*"
+                  return m.group(0)
+
+              new_content = pattern.sub(replace, content)
+              if new_content != content:
+                  with open(path, 'w', encoding='utf-8') as f:
+                      f.write(new_content)
+          PYEOF
 
       - name: Convert Markdown files to PDF
         run: |
