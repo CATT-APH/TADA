@@ -1,6 +1,6 @@
 ---
 title: "Activity A.3. Rotating, Translating, Scaling and Mirroring Shapes"
-description: Tangible Art & Design Adventures by the Center for Assistive Technology Training Northwest, WSSB
+description: Tactile Art & Design Adventures by the Center for Assistive Technology Training Northwest, WSSB
 ---
 
 # Activity A.3. Rotating, Translating, Scaling and Mirroring Shapes
