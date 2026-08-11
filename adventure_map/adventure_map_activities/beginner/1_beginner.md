@@ -1,6 +1,6 @@
 ---
 title: "Lesson 1, Beginner - Intro to Tactile Graphics"
-description: Tangible Art & Design Adventures by the Center for Assistive Technology Training Northwest, WSSB
+description: Tactile Art & Design Adventures by the Center for Assistive Technology Training Northwest, WSSB
 ---
 
 # Lesson 1, Beginner - Intro to Tactile Graphics
