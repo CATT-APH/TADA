@@ -1,6 +1,6 @@
 ---
 title: "Section C: 3D Printable STEM Resources"
-description: Tangible Art & Design Adventures by the Center for Assistive Technology Training Northwest, WSSB
+description: Tactile Art & Design Adventures by the Center for Assistive Technology Training Northwest, WSSB
 ---
 
 # Section C: 3D Printable STEM Resources
