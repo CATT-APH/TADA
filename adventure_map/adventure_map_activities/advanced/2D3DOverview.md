@@ -1,6 +1,6 @@
 ---
 title: "Creating 2D and 3D Tactile Math - Overview"
-description: Tangible Art & Design Adventures by the Center for Assistive Technology Training Northwest, WSSB
+description: Tactile Art & Design Adventures by the Center for Assistive Technology Training Northwest, WSSB
 ---
 
 # Creating 2D and 3D Tactile Math - Overview
