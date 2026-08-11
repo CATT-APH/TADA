@@ -1,6 +1,6 @@
 ---
 title: Contact Us
-description: Tangible Art & Design Adventures by the Center for Assistive Technology Training Northwest, WSSB
+description: Tactile Art & Design Adventures by the Center for Assistive Technology Training Northwest, WSSB
 ---
 
 # Contact Us
