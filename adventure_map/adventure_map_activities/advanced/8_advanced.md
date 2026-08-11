@@ -1,6 +1,6 @@
 ---
 title: "Activity B.2. Moving from 2D to 3D"
-description: Tangible Art & Design Adventures by the Center for Assistive Technology Training Northwest, WSSB
+description: Tactile Art & Design Adventures by the Center for Assistive Technology Training Northwest, WSSB
 ---
 
 # Activity B.2. Moving from 2D to 3D
