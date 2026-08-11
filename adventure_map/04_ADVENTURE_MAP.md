@@ -5,7 +5,7 @@ description: Tactile Art & Design Adventures by the Center for Assistive Technol
 
 # The TADA! Adventure Map
 
-*(The Tangible Art and Design Adventure Map)*
+*(The Tactile Art and Design Adventure Map)*
 
 ## Introductory Points of Interest
 
