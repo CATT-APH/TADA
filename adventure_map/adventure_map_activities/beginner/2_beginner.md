@@ -1,6 +1,6 @@
 ---
 title: "Activity 2, Beginner - Descriptive Language and Drawing"
-description: Tangible Art & Design Adventures by the Center for Assistive Technology Training Northwest, WSSB
+description: Tactile Art & Design Adventures by the Center for Assistive Technology Training Northwest, WSSB
 ---
 
 # Activity 2, Beginner - Descriptive Language and Drawing
