@@ -1,6 +1,11 @@
 ---
 title: "Activity 3, Beginner - Tactile Colors"
 description: Tactile Art & Design Adventures by the Center for Assistive Technology Training Northwest, WSSB
+order: 3
+nav_title: Activity 3: Tactile Colors
+index_title: Tactile Colors
+summary: Develop strategies for creating pixel art using a grid, braille, and textured paper. Practice how to use a key to "color-code" a graphic.
+goals: Learn about color and develop tactile discrimination skills.
 ---
 
 # Activity 3, Beginner - Tactile Colors

@@ -1,6 +1,11 @@
 ---
 title: "Activity 3, Intermediate - Drawing with Colby"
 description: Tactile Art & Design Adventures by the Center for Assistive Technology Training Northwest, WSSB
+order: 3
+nav_title: Activity 3: Drawing with Colby
+index_title: Drawing with Colby
+summary: Plan and use Colby's path to create shapes. Use coordinates on a coordinate grid as a canvas.
+goals: Introduce perspective and use of a coordinate grid; practice introductory programming concepts.
 ---
 
 # Activity 3, Intermediate - Drawing with Colby

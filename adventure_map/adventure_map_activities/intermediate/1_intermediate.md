@@ -1,6 +1,11 @@
 ---
 title: "Activity 1, Intermediate - Code & Go Mouse"
 description: Tactile Art & Design Adventures by the Center for Assistive Technology Training Northwest, WSSB
+order: 1
+nav_title: Activity 1: Code & Go Mouse
+index_title: Code & Go Mouse
+summary: Play with Colby the programmable robot mouse from APH while incorporating spatial concepts in real life. Practice sequencing and mapping while having fun.
+goals: Learn basic coding skills and exercise computational thinking.
 ---
 
 # Activity 1, Intermediate - Code & Go Mouse 

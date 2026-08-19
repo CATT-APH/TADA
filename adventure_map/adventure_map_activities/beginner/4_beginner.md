@@ -1,3 +1,11 @@
+---
+order: 4
+nav_title: Activity 4: Moving from 3D to 2D
+index_title: Moving from 3D to 2D: Basic Shapes
+summary: The translation from 3D to 2D representations benefits from direct, explicit instruction to help students develop a strong foundation for interpreting tactile graphics.
+goals: Learn how 3D objects are represented as 2D tactile graphics.
+---
+
 # **Moving from 3D to 2D: Basic Shapes** 
 
 [Download this activity](../../../pdf/adventure_map/adventure_map_activities/beginner/4_beginner.pdf)

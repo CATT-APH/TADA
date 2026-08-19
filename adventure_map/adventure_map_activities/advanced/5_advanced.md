@@ -1,6 +1,8 @@
 ---
 title: "Activity A.2. Basic Shapes in OpenSCAD"
 description: Tactile Art & Design Adventures by the Center for Assistive Technology Training Northwest, WSSB
+order: 7
+nav_title: Activity A.2: Basic Shapes
 ---
 
 # Activity A.2. Basic Shapes in OpenSCAD
