@@ -79,6 +79,15 @@ DATA = {
 }
 
 
+def yaml_quote(value):
+    """Double-quote a scalar for safe YAML embedding, escaping backslashes
+    and quotes. Values like "Activity 4: Moving from 3D to 2D" contain a
+    colon, which YAML treats as a mapping separator if left unquoted --
+    always quoting avoids that whole class of bug."""
+    escaped = str(value).replace("\\", "\\\\").replace('"', '\\"')
+    return f'"{escaped}"'
+
+
 def upsert_frontmatter(text, new_fields):
     data, body, had_fm = fm.parse(text)
     for k, v in new_fields.items():
@@ -88,12 +97,12 @@ def upsert_frontmatter(text, new_fields):
     for key in ("title", "description"):
         if key in data:
             v = data.pop(key)
-            if key == "title" or " " in str(v):
-                lines.append(f'{key}: "{v}"' if key == "title" else f"{key}: {v}")
-            else:
-                lines.append(f"{key}: {v}")
+            lines.append(f"{key}: {yaml_quote(v)}")
     for k, v in data.items():
-        lines.append(f"{k}: {v}")
+        if k == "order":
+            lines.append(f"order: {v}")
+        else:
+            lines.append(f"{k}: {yaml_quote(v)}")
     lines.append("---")
     fm_block = "\n".join(lines) + "\n\n"
     return fm_block + body.lstrip("\n")
