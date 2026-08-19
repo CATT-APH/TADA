@@ -1,6 +1,11 @@
 ---
 title: "Activity 4, Intermediate - Code Quest"
 description: Tactile Art & Design Adventures by the Center for Assistive Technology Training Northwest, WSSB
+order: 4
+nav_title: Activity 4: Code Quest
+index_title: CodeQuest
+summary: Learn coding skills with CodeQuest, a free iPad app from APH. Program solutions to help the astronaut return to their spaceship.
+goals: Apply new coding skills to complete an adventure. Use a computer with a text editor program; open and navigate .svg files; alter .svg code to achieve desired outcomes; build confidence with troubleshooting and iterative design processes.
 ---
 
 # Activity 4, Intermediate - Code Quest

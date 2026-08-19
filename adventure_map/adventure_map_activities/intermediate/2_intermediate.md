@@ -1,6 +1,11 @@
 ---
 title: "Activity 2, Intermediate - Colby's Mouse Town"
 description: Tactile Art & Design Adventures by the Center for Assistive Technology Training Northwest, WSSB
+order: 2
+nav_title: Activity 2: Colby's Mouse Town
+index_title: Colby's Mouse Town
+summary: Plan and navigate routes through Colby's town on graph paper. Practice sequencing by breaking bigger tasks into smaller steps.
+goals: Learn foundational programming concepts.
 ---
 
 # Activity 2, Intermediate - Colby's Mouse Town

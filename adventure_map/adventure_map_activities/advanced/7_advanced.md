@@ -1,6 +1,8 @@
 ---
 title: "Activity B.1. Adding and Subtracting Objects"
 description: Tactile Art & Design Adventures by the Center for Assistive Technology Training Northwest, WSSB
+order: 9
+nav_title: Activity B.1: Adding & Subtracting
 ---
 
 # Activity B.1. Adding and Subtracting Objects
