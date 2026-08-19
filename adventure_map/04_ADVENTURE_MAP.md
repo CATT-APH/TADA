@@ -31,6 +31,11 @@ Develop strategies for creating pixel art using a grid, braille, and textured pa
 The translation from 3D to 2D representations benefits from direct, explicit instruction to help students develop a strong foundation for interpreting tactile graphics.
 
 **Goals:** Learn how 3D objects are represented as 2D tactile graphics.
+
+### [Activity 5: Test Activity](adventure_map_activities/beginner/5_beginner.md)
+A test activity to confirm the automation works.
+
+**Goals:** Confirm the pipeline updates the footer and index correctly.
 <!-- END AUTO-GENERATED:beginner -->
 
 ### Activity 5: Coming Soon
