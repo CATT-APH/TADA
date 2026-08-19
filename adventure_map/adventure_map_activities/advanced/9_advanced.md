@@ -1,12 +1,11 @@
 ---
 title: "Activity B.3. True 3D models"
-description: Tactile Art & Design Adventures by the Center for Assistive Technology Training Northwest, WSSB
+description: "Tactile Art & Design Adventures by the Center for Assistive Technology Training Northwest, WSSB"
 order: 11
-nav_title: Activity B.3: True 3D Models
-next_override_title: Section C: 3D Printable STEM Models
-next_override_path: ../../../embeds/resources_page/3D_PRINTABLE_STEM_RESOURCES.md
+nav_title: "Activity B.3: True 3D Models"
+next_override_title: "Section C: 3D Printable STEM Models"
+next_override_path: "../../../embeds/resources_page/3D_PRINTABLE_STEM_RESOURCES.md"
 ---
-
 # Activity B.3. True 3D models
 
 [Download this activity](../../../pdf/adventure_map/adventure_map_activities/advanced/9_advanced.pdf)

@@ -1,10 +1,9 @@
 ---
 title: "Activity 2, Advanced - Digitizing Drawings with SVG Code"
-description: Tactile Art & Design Adventures by the Center for Assistive Technology Training Northwest, WSSB
+description: "Tactile Art & Design Adventures by the Center for Assistive Technology Training Northwest, WSSB"
 order: 2
-nav_title: Activity 2: Digitizing Drawings with SVG Code
+nav_title: "Activity 2: Digitizing Drawings with SVG Code"
 ---
-
 # Activity 2, Advanced - Digitizing Drawings with SVG Code
 
 [Download this activity](../../../pdf/adventure_map/adventure_map_activities/advanced/2_advanced.pdf)

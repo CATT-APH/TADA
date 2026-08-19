@@ -1,13 +1,12 @@
 ---
 title: "Activity 2, Beginner - Descriptive Language and Drawing"
-description: Tactile Art & Design Adventures by the Center for Assistive Technology Training Northwest, WSSB
+description: "Tactile Art & Design Adventures by the Center for Assistive Technology Training Northwest, WSSB"
 order: 2
-nav_title: Activity 2: Descriptive Language and Drawing
-index_title: Descriptive Language in Drawing
-summary: Explore descriptive language and tactile graphics. Practice developing directions for replication.
-goals: Learn importance of using precise directions when creating tactile graphics.
+nav_title: "Activity 2: Descriptive Language and Drawing"
+index_title: "Descriptive Language in Drawing"
+summary: "Explore descriptive language and tactile graphics. Practice developing directions for replication."
+goals: "Learn importance of using precise directions when creating tactile graphics."
 ---
-
 # Activity 2, Beginner - Descriptive Language and Drawing
 
 [Download this activity](../../../pdf/adventure_map/adventure_map_activities/beginner/2_beginner.pdf)

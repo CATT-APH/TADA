@@ -1,10 +1,9 @@
 ---
 title: "Creating 2D and 3D Tactile Math - Overview"
-description: Tactile Art & Design Adventures by the Center for Assistive Technology Training Northwest, WSSB
+description: "Tactile Art & Design Adventures by the Center for Assistive Technology Training Northwest, WSSB"
 order: 4
-nav_title: 2D to 3D Overview
+nav_title: "2D to 3D Overview"
 ---
-
 # Creating 2D and 3D Tactile Math - Overview
 
 [Download this activity](../../../pdf/adventure_map/adventure_map_activities/advanced/2D3DOverview.pdf)
