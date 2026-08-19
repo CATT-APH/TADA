@@ -23,7 +23,7 @@ Explore descriptive language and tactile graphics. Practice developing direction
 **Goals:** Learn importance of using precise directions when creating tactile graphics.
 
 ### [Activity 3: Tactile Colors](adventure_map_activities/beginner/3_beginner.md)
-Develop strategies for creating pixel art using a grid, braille, and textured paper. Practice how to use a key to "color-code" a graphic.
+Develop strategies for creating pixel art using a grid, braille, and textured paper. Practice how to use a key to \"color-code\" a graphic.
 
 **Goals:** Learn about color and develop tactile discrimination skills.
 
