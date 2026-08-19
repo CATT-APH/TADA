@@ -8,6 +8,4 @@ summary: "A test activity to confirm the automation works."
 goals: "Confirm the pipeline updates the footer and index correctly."
 ---
 
-# Activity 5, Beginner - Test Activity
-
-This is a test — delete me after confirming the automation works.
+**Previous:** [Activity 4: Moving from 3D to 2D](4_beginner.md) · [Download the whole thing](https://github.com/aabdurmohammed-source/TADA/archive/refs/heads/main.zip) · **Back to:** [Adventure Map](../../04_ADVENTURE_MAP.md)
