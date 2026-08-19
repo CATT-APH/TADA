@@ -11,6 +11,7 @@ description: Tactile Art & Design Adventures by the Center for Assistive Technol
 
 [Download all Beginner activities](../pdf/beginner-bundle.pdf)
 
+<!-- AUTO-GENERATED:beginner -->
 ### [Activity 1: Introduction to Tactile Graphics](adventure_map_activities/beginner/1_beginner.md)
 Introduction to tactile graphics and art, with an emphasis on hands-on learning and creativity while introducing the idea of using technology to create tactile graphics.
 
@@ -19,7 +20,7 @@ Introduction to tactile graphics and art, with an emphasis on hands-on learning 
 ### [Activity 2: Descriptive Language in Drawing](adventure_map_activities/beginner/2_beginner.md)
 Explore descriptive language and tactile graphics. Practice developing directions for replication.
 
-**Goal:** Learn importance of using precise directions when creating tactile graphics.
+**Goals:** Learn importance of using precise directions when creating tactile graphics.
 
 ### [Activity 3: Tactile Colors](adventure_map_activities/beginner/3_beginner.md)
 Develop strategies for creating pixel art using a grid, braille, and textured paper. Practice how to use a key to "color-code" a graphic.
@@ -27,8 +28,10 @@ Develop strategies for creating pixel art using a grid, braille, and textured pa
 **Goals:** Learn about color and develop tactile discrimination skills.
 
 ### [Activity 4: Moving from 3D to 2D: Basic Shapes](adventure_map_activities/beginner/4_beginner.md)
- The translation from 3D to 2D representations benefits from direct, explicit instruction to help students develop a strong foundation for interpreting tactile graphics.
+The translation from 3D to 2D representations benefits from direct, explicit instruction to help students develop a strong foundation for interpreting tactile graphics.
+
 **Goals:** Learn how 3D objects are represented as 2D tactile graphics.
+<!-- END AUTO-GENERATED:beginner -->
 
 ### Activity 5: Coming Soon
 ### Activity 6: Coming Soon
@@ -37,6 +40,7 @@ Develop strategies for creating pixel art using a grid, braille, and textured pa
 
 [Download all Intermediate activities](../pdf/intermediate-bundle.pdf)
 
+<!-- AUTO-GENERATED:intermediate -->
 ### [Activity 1: Code & Go Mouse](adventure_map_activities/intermediate/1_intermediate.md)
 Play with Colby the programmable robot mouse from APH while incorporating spatial concepts in real life. Practice sequencing and mapping while having fun.
 
@@ -45,7 +49,7 @@ Play with Colby the programmable robot mouse from APH while incorporating spatia
 ### [Activity 2: Colby's Mouse Town](adventure_map_activities/intermediate/2_intermediate.md)
 Plan and navigate routes through Colby's town on graph paper. Practice sequencing by breaking bigger tasks into smaller steps.
 
-**Goal:** Learn foundational programming concepts.
+**Goals:** Learn foundational programming concepts.
 
 ### [Activity 3: Drawing with Colby](adventure_map_activities/intermediate/3_intermediate.md)
 Plan and use Colby's path to create shapes. Use coordinates on a coordinate grid as a canvas.
@@ -56,6 +60,7 @@ Plan and use Colby's path to create shapes. Use coordinates on a coordinate grid
 Learn coding skills with CodeQuest, a free iPad app from APH. Program solutions to help the astronaut return to their spaceship.
 
 **Goals:** Apply new coding skills to complete an adventure. Use a computer with a text editor program; open and navigate .svg files; alter .svg code to achieve desired outcomes; build confidence with troubleshooting and iterative design processes.
+<!-- END AUTO-GENERATED:intermediate -->
 
 ## Advanced Points of Interest
 

@@ -75,35 +75,39 @@ jobs:
 
       - name: Bundle each tier's activities into one combined PDF
         run: |
-          BASE=adventure_map/adventure_map_activities
+          # Bundle order comes from each source .md file's `order:` frontmatter
+          # field (see scripts/fm.py), not from filenames — this is what lets
+          # the advanced tier's non-numeric sequence (1, 2, 3, 2D3DOverview,
+          # 2DIntro, 4, 5, ...) bundle correctly. Files without an `order`
+          # field are skipped, so nothing is silently included by accident.
+          python3 << 'PYEOF'
+          import subprocess, sys
+          sys.path.insert(0, "scripts")
+          import fm
 
-          pdfunite \
-            "pdf/$BASE/beginner/1_beginner.pdf" \
-            "pdf/$BASE/beginner/2_beginner.pdf" \
-            "pdf/$BASE/beginner/3_beginner.pdf" \
-            "pdf/$BASE/beginner/4_beginner.pdf" \
-            pdf/beginner-bundle.pdf
+          BASE = "adventure_map/adventure_map_activities"
+          TIERS = ["beginner", "intermediate", "advanced"]
 
-          pdfunite \
-            "pdf/$BASE/intermediate/1_intermediate.pdf" \
-            "pdf/$BASE/intermediate/2_intermediate.pdf" \
-            "pdf/$BASE/intermediate/3_intermediate.pdf" \
-            "pdf/$BASE/intermediate/4_intermediate.pdf" \
-            pdf/intermediate-bundle.pdf
-
-          pdfunite \
-            "pdf/$BASE/advanced/1_advanced.pdf" \
-            "pdf/$BASE/advanced/2_advanced.pdf" \
-            "pdf/$BASE/advanced/3_advanced.pdf" \
-            "pdf/$BASE/advanced/2D3DOverview.pdf" \
-            "pdf/$BASE/advanced/2DIntro.pdf" \
-            "pdf/$BASE/advanced/4_advanced.pdf" \
-            "pdf/$BASE/advanced/5_advanced.pdf" \
-            "pdf/$BASE/advanced/6_advanced.pdf" \
-            "pdf/$BASE/advanced/7_advanced.pdf" \
-            "pdf/$BASE/advanced/8_advanced.pdf" \
-            "pdf/$BASE/advanced/9_advanced.pdf" \
-            pdf/advanced-bundle.pdf
+          import glob, os
+          for tier in TIERS:
+              items = []
+              for src in sorted(glob.glob(f"{BASE}/{tier}/*.md")):
+                  with open(src, encoding="utf-8") as f:
+                      text = f.read()
+                  order = fm.get_order(text)
+                  if order is None:
+                      continue
+                  pdf_path = f"pdf/{BASE}/{tier}/{os.path.splitext(os.path.basename(src))[0]}.pdf"
+                  items.append((order, pdf_path))
+              items.sort(key=lambda x: x[0])
+              pdfs = [p for _, p in items]
+              if not pdfs:
+                  print(f"No ordered activities found for {tier}, skipping bundle.")
+                  continue
+              out = f"pdf/{tier}-bundle.pdf"
+              print(f"Bundling {tier}: {pdfs}")
+              subprocess.run(["pdfunite", *pdfs, out], check=True)
+          PYEOF
 
       - name: Commit generated PDFs
         run: |
