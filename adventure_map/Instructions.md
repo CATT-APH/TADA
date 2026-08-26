@@ -5,21 +5,21 @@ description: Tactile Art & Design Adventures by the Center for Assistive Technol
 
 # How to Add Your Activity to the Repo
 
-You wrote your activity in Google Docs (or similar). Here's how to get it into TADA! correctly.
+You wrote your activity in Google Docs (or similar). Here's how to get it into the TADA repo!
 
-## The short version
+## Summary
 
 1. Export your doc as Markdown.
 2. Save it in the right folder, correctly numbered.
 3. Add a frontmatter block at the top (see below) — **this is the important part.**
 4. Push, or open a Pull Request.
-5. A bot opens a PR that wires in your navigation links and index entry automatically. Someone merges it.
 
-That's it for beginner and intermediate activities. Advanced has one extra manual step — see the note at the bottom.
+That's it for beginner and intermediate activities. Advanced has one extra manual step (see the note at the bottom).
 
-## 1. Export your doc as Markdown
+## 1. Export your activity as Markdown
 
 In Google Docs: **File → Download → Markdown (.md)**
+**Microsoft Word documents need to be exported to Google Docs to be formatted into a Markdown file**
 
 Before uploading, skim the exported file for these — Google's export does this almost every time:
 
@@ -41,7 +41,9 @@ Use the next open number in your category.
 
 ## 3. Add the frontmatter block
 
-This is a small metadata header at the very top of the file, between two `---` lines. It's invisible on the actual page — it's what the automation reads to build your navigation links and index entry for you. Fill in all five fields:
+This is a small metadata header at the very top of the file, between two `---` lines. It's invisible on the actual page — it's what the automation reads to build your navigation links and index entry for you.
+
+*COPY THIS AND PASTE AT THE START OF YOUR FILE
 
 ```markdown
 ---
@@ -73,16 +75,6 @@ Everything below the frontmatter — your `#` title, Setup section, numbered ste
 - No write access: open a Pull Request with it.
 
 You do **not** need to manually edit the footer links or `04_ADVENTURE_MAP.md` yourself — an automation handles that next.
-
-## 5. What happens after you push
-
-A GitHub Action notices your new file, and:
-
-- Rewrites the Previous/Next footer on your file *and* on the activity before it, so they link to each other.
-- Adds your activity's entry into `04_ADVENTURE_MAP.md` automatically, using the `summary`/`goals`/`index_title` you wrote.
-- Opens a **Pull Request** with those changes — it never pushes straight to `main`. Someone reviews and merges, same as any other change.
-
-One thing this doesn't do for you: if there's a `### Activity [N]: Coming Soon` placeholder line sitting in `04_ADVENTURE_MAP.md`, delete that line yourself — the automation won't touch it since it can't tell it's meant to be replaced.
 
 ## Advanced tier: one extra manual step
 
