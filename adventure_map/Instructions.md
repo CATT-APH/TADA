@@ -3,7 +3,7 @@ title: How to add your activity to the Adventure Map
 description: Tactile Art & Design Adventures by the Center for Assistive Technology Training Northwest, WSSB
 ---
 
-# How to Add Your Activity to the Repo
+# How to add your activity to the Adventure Map
 
 You wrote your activity in Google Docs (or similar). Here's how to get it into the TADA repo!
 
