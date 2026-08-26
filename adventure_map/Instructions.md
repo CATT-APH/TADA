@@ -1,5 +1,5 @@
 ---
-title: How to Add Your Activity to the Repo
+title: How to add your activity to the Adventure Map
 description: Tactile Art & Design Adventures by the Center for Assistive Technology Training Northwest, WSSB
 ---
 
