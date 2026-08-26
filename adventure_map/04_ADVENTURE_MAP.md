@@ -102,6 +102,9 @@ Iterate (repeatedly produce) digital designs, change shapes as desired, and prac
 
 ### [Section C: Guide to Published 3D Printable STEM Models](../embeds/resources_page/3D_PRINTABLE_STEM_RESOURCES.md)
 
+# Need help adding activities? Visit [Instructions](Intructions.md)
+
+
 ---
 
 **Previous:** [Resources](../03_RESOURCES.md) · **Next:** [Contact Us](../05_CONTACT_US.md) · **Home:** [Home](../README.md)
