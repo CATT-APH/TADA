@@ -43,7 +43,7 @@ Use the next open number in your category.
 
 This is a small metadata header at the very top of the file, between two `---` lines. It's invisible on the actual page — it's what the automation reads to build your navigation links and index entry for you.
 
-*COPY THIS AND PASTE AT THE START OF YOUR FILE
+#COPY THIS AND PASTE AT THE START OF YOUR FILE#
 
 ```markdown
 ---
