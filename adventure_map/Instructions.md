@@ -56,6 +56,19 @@ summary: "One or two sentences describing what students do in this activity."
 goals: "What students will learn or practice."
 ---
 ```
+# For Example: 
+
+```markdown
+---
+title: "Lesson 1, Beginner - Intro to Tactile Graphics"
+description: "Tactile Art & Design Adventures by the Center for Assistive Technology Training Northwest, WSSB"
+order: 1
+nav_title: "Activity 1: Intro to Tactile Graphics"
+index_title: "Introduction to Tactile Graphics"
+summary: "Introduction to tactile graphics and art, with an emphasis on hands-on learning and creativity while introducing the idea of using technology to create tactile graphics."
+goals: "Develop motor skills, spatial awareness, and appreciation for accessible art."
+---
+```
 
 What each field does:
 
