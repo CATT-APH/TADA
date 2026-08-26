@@ -43,14 +43,14 @@ Use the next open number in your category.
 
 This is a small metadata header at the very top of the file, between two `---` lines. It's invisible on the actual page — it's what the automation reads to build your navigation links and index entry for you.
 
-#COPY THIS AND PASTE AT THE START OF YOUR FILE#
+# PASTE THIS AT THE START OF YOUR FILE AND FILL IN DATA
 
 ```markdown
 ---
-title: "Activity 5, Beginner - Your Activity Name"
+title: "Activity ?, Beginner, Intermediate, or Advanced - Your Activity Name"
 description: Tactile Art & Design Adventures by the Center for Assistive Technology Training Northwest, WSSB
-order: 5
-nav_title: "Activity 5: Your Activity Name"
+order: ?
+nav_title: "Activity ?: Your Activity Name"
 index_title: "Your Activity Name"
 summary: "One or two sentences describing what students do in this activity."
 goals: "What students will learn or practice."
