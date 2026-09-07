@@ -101,4 +101,4 @@ This activity can be broken down into several elements for lesson planning.
 
 ---
 
-[Download the whole thing](https://github.com/CATT-APH/TADA/archive/refs/heads/main.zip) · **Next:** [Activity 2: Descriptive Language and Drawing](2_beginner.md) · **Back to:** [Adventure Map](../../04_ADVENTURE_MAP.md)
+**Next:** [Activity 2: Descriptive Language and Drawing](2_beginner.md) · **Back to:** [Adventure Map](../../04_ADVENTURE_MAP.md) · [Download all TADA PDFs](../../../pdf/TADA-all-PDFs.zip)

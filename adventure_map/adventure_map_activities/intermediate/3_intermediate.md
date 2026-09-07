@@ -109,4 +109,4 @@ This activity can be broken down into several elements for lesson planning.
 
 ---
 
-**Previous:** [Activity 2: Colby's Mouse Town](2_intermediate.md) · [Download the whole thing](https://github.com/CATT-APH/TADA/archive/refs/heads/main.zip) · **Next:** [Activity 4: Code Quest](4_intermediate.md) · **Back to:** [Adventure Map](../../04_ADVENTURE_MAP.md)
+**Previous:** [Activity 2: Colby's Mouse Town](2_intermediate.md) · **Next:** [Activity 4: Code Quest](4_intermediate.md) · **Back to:** [Adventure Map](../../04_ADVENTURE_MAP.md) · [Download all TADA PDFs](../../../pdf/TADA-all-PDFs.zip)

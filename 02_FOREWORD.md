@@ -6,6 +6,8 @@ description: Tactile Art & Design Adventures Foreword by the Center for Assistiv
 
 # TADA! Foreword
 
+[Download this page (PDF)](pdf/02_FOREWORD.pdf)
+
 
 To provide some context regarding the inspirations and experiences that informed the development of TADA!, we offer two forewords. The first is from Ann Cunningham, a tactile artist and educator at the Colorado Center for the Blind. The second is from Danielle Montour, a blind Braille and tactile literacy educator in New York City.
 

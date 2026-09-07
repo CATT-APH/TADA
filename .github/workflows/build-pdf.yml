@@ -18,7 +18,7 @@ jobs:
       - name: Install Pandoc and PDF engine
         run: |
           sudo apt-get update
-          sudo apt-get install -y pandoc texlive-xetex librsvg2-bin imagemagick python3 poppler-utils
+          sudo apt-get install -y pandoc texlive-xetex librsvg2-bin imagemagick python3 poppler-utils zip
 
       - name: Flatten transparent PNGs (xelatex can't handle alpha channel)
         run: |
@@ -108,6 +108,12 @@ jobs:
               print(f"Bundling {tier}: {pdfs}")
               subprocess.run(["pdfunite", *pdfs, out], check=True)
           PYEOF
+
+      - name: Zip all PDFs into one download
+        run: |
+          rm -f /tmp/TADA-all-PDFs.zip
+          (cd pdf && zip -r /tmp/TADA-all-PDFs.zip . -x "TADA-all-PDFs.zip")
+          mv /tmp/TADA-all-PDFs.zip pdf/TADA-all-PDFs.zip
 
       - name: Commit generated PDFs
         run: |

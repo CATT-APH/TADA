@@ -23,7 +23,7 @@ By following the TADA! map, students can expect to:
 - Develop basic concepts for creating computer graphics
 - Apply creativity and resilience towards drafting, rendering, and revision processes
 
-<p align="center"><a href="https://github.com/CATT-APH/TADA/archive/refs/heads/main.zip">Download the whole thing (ZIP)</a></p>
+<p align="center"><a href="pdf/TADA-all-PDFs.zip">Download all TADA PDFs (ZIP)</a></p>
 
 ## How to Use TADA!
 

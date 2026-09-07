@@ -28,7 +28,7 @@ import fm  # noqa: E402
 
 ROOT = os.path.join(os.path.dirname(__file__), "..", "..", "adventure_map", "adventure_map_activities")
 TIERS = ["beginner", "intermediate", "advanced"]
-DOWNLOAD_LINK = "[Download the whole thing](https://github.com/CATT-APH/TADA/archive/refs/heads/main.zip)"
+DOWNLOAD_LINK = "[Download all TADA PDFs](../../../pdf/TADA-all-PDFs.zip)"
 BACK_LINK = "**Back to:** [Adventure Map](../../04_ADVENTURE_MAP.md)"
 
 FOOTER_DIVIDER = "\n---\n\n"
@@ -38,10 +38,10 @@ def build_footer(prev, nxt):
     parts = []
     if prev:
         parts.append(f"**Previous:** [{prev[0]}]({prev[1]})")
-    parts.append(DOWNLOAD_LINK)
     if nxt:
         parts.append(f"**Next:** [{nxt[0]}]({nxt[1]})")
     parts.append(BACK_LINK)
+    parts.append(DOWNLOAD_LINK)
     return " · ".join(parts) + "\n"
 
 

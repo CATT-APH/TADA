@@ -5,6 +5,8 @@ description: Tactile Art & Design Adventures by the Center for Assistive Technol
 
 # TADA! Resources
 
+[Download this page (PDF)](pdf/03_RESOURCES.pdf)
+
 Tactile world-building is an ongoing adventure. During and beyond this TADA! map, we invite exploration of various other tactile adventures, such as:
 
 - [BlindSVG.com — Marco Salsiccia's guide to nonvisual computer design using SVG](https://blindsvg.com)
@@ -21,14 +23,14 @@ Tactile world-building is an ongoing adventure. During and beyond this TADA! map
 - [Sensational Books — Ann Cunningham](https://sensationalbooks.com/)
 - [See3D — Caroline Karbowski](https://see3d.org/)
 - [Abigale Stangl, Ph.D — Georgia Institute of Technology](https://abigalestangl.com/)
-- [Advanced Activities Section C: 3D Printable STEM Resources](dev/embeds/resources_page/3D_PRINTABLE_STEM_RESOURCES.md)
+- [Advanced Activities Section C: 3D Printable STEM Resources](embeds/resources_page/3D_PRINTABLE_STEM_RESOURCES.md)
 
 ## Printables
 
-- [For Steps End](dev/embeds/For-Steps-End.pdf)
-- [Forward](dev/embeds/Forward.pdf)
-- [If There is a Wall in Front of Me](dev/embeds/If-there%20is%20a%20wall-in%20front%20of%20me.pdf)
-- [Turn Left-Turn Right](dev/embeds/Turn%20Left-Turn%20Right.pdf)
+- [For Steps End](embeds/For-Steps-End.pdf)
+- [Forward](embeds/Forward.pdf)
+- [If There is a Wall in Front of Me](embeds/If-there%20is%20a%20wall-in%20front%20of%20me.pdf)
+- [Turn Left-Turn Right](embeds/Turn%20Left-Turn%20Right.pdf)
 
 ---
 
