@@ -28,7 +28,7 @@ import fm  # noqa: E402
 
 ROOT = os.path.join(os.path.dirname(__file__), "..", "..", "adventure_map", "adventure_map_activities")
 TIERS = ["beginner", "intermediate", "advanced"]
-DOWNLOAD_LINK = "[Download the whole thing](https://github.com/aabdurmohammed-source/TADA/archive/refs/heads/main.zip)"
+DOWNLOAD_LINK = "[Download the whole thing](https://github.com/CATT-APH/TADA/archive/refs/heads/main.zip)"
 BACK_LINK = "**Back to:** [Adventure Map](../../04_ADVENTURE_MAP.md)"
 
 FOOTER_DIVIDER = "\n---\n\n"
