@@ -11,7 +11,7 @@ so it works for the advanced tier where the real reading sequence
 Optional per-file frontmatter overrides, for edges that don't point to
 another activity file in the same folder:
     next_override_title: "Section C: Guide to Published 3D Printable STEM Models"
-    next_override_path: "../../../embeds/resources_page/3D_PRINTABLE_STEM_RESOURCES.md"
+    next_override_path: "../../../dev/embeds/resources_page/3D_PRINTABLE_STEM_RESOURCES.md"
     prev_override_title: "..."
     prev_override_path: "..."
 
@@ -26,7 +26,7 @@ import sys
 sys.path.insert(0, os.path.dirname(__file__))
 import fm  # noqa: E402
 
-ROOT = os.path.join(os.path.dirname(__file__), "..", "adventure_map", "adventure_map_activities")
+ROOT = os.path.join(os.path.dirname(__file__), "..", "..", "adventure_map", "adventure_map_activities")
 TIERS = ["beginner", "intermediate", "advanced"]
 DOWNLOAD_LINK = "[Download the whole thing](https://github.com/aabdurmohammed-source/TADA/archive/refs/heads/main.zip)"
 BACK_LINK = "**Back to:** [Adventure Map](../../04_ADVENTURE_MAP.md)"

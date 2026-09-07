@@ -19,7 +19,7 @@ import sys
 sys.path.insert(0, os.path.dirname(__file__))
 import fm  # noqa: E402
 
-ROOT = os.path.join(os.path.dirname(__file__), "..", "adventure_map", "adventure_map_activities")
+ROOT = os.path.join(os.path.dirname(__file__), "..", "..", "adventure_map", "adventure_map_activities")
 
 # tier -> filename -> fields
 DATA = {
@@ -73,7 +73,7 @@ DATA = {
         "9_advanced.md": dict(
             order=11, nav_title="Activity B.3: True 3D Models",
             next_override_title="Section C: 3D Printable STEM Models",
-            next_override_path="../../../embeds/resources_page/3D_PRINTABLE_STEM_RESOURCES.md",
+            next_override_path="../../../dev/embeds/resources_page/3D_PRINTABLE_STEM_RESOURCES.md",
         ),
     },
 }

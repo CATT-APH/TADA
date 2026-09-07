@@ -33,8 +33,8 @@ import sys
 sys.path.insert(0, os.path.dirname(__file__))
 import fm  # noqa: E402
 
-ACTIVITIES_ROOT = os.path.join(os.path.dirname(__file__), "..", "adventure_map", "adventure_map_activities")
-MAP_PATH = os.path.join(os.path.dirname(__file__), "..", "adventure_map", "04_ADVENTURE_MAP.md")
+ACTIVITIES_ROOT = os.path.join(os.path.dirname(__file__), "..", "..", "adventure_map", "adventure_map_activities")
+MAP_PATH = os.path.join(os.path.dirname(__file__), "..", "..", "adventure_map", "04_ADVENTURE_MAP.md")
 AUTO_TIERS = ["beginner", "intermediate"]  # advanced excluded on purpose
 
 

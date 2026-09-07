@@ -5,7 +5,7 @@ description: Tactile Art & Design Adventures by the Center for Assistive Technol
 
 # Section C: 3D Printable STEM Resources
 
-[Download this activity](../../pdf/embeds/resources_page/3D_PRINTABLE_STEM_RESOURCES.pdf)
+[Download this activity](../../../pdf/dev/embeds/resources_page/3D_PRINTABLE_STEM_RESOURCES.pdf)
 
 We have developed roughly 100 math and science models, associated with five of our books. This section discusses where to find the models and the books that describe them. All of the models are written in OpenSCAD and as such are mostly able to be altered. Our books describe how to alter each model for different cases. The models were designed to be relatively easy to 3D print on a school 3D printer that might have seen better days. If a print is challenging for some reason we note that in the relevant book.
 

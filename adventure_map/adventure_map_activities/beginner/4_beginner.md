@@ -126,7 +126,7 @@ This activity can be broken down into several elements for lesson planning.
 ![An articulated model is created from cardboard shapes that resemble each limb (forearm, upper arm, neck, torso, head, hips, thighs, and lower leg with foot. Each limb is connected at the joint with a brass paper fastener][image1]  
 
 
-[image1]: ../../../embeds/articulated_model.png
+[image1]: ../../../dev/embeds/articulated_model.png
 
 ---
 

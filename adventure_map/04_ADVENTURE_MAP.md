@@ -95,7 +95,7 @@ Iterate (repeatedly produce) digital designs, change shapes as desired, and prac
 - [Activity B.2. Moving from 2D to 3D](adventure_map_activities/advanced/8_advanced.md)
 - [Activity B.3. True 3D Models](adventure_map_activities/advanced/9_advanced.md)
 
-### [Section C: Guide to Published 3D Printable STEM Models](../embeds/resources_page/3D_PRINTABLE_STEM_RESOURCES.md)
+### [Section C: Guide to Published 3D Printable STEM Models](../dev/embeds/resources_page/3D_PRINTABLE_STEM_RESOURCES.md)
 
 # Need help adding activities? Visit [Instructions](Intructions.md)
 

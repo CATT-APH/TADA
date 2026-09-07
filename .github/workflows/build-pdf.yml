@@ -82,7 +82,7 @@ jobs:
           # field are skipped, so nothing is silently included by accident.
           python3 << 'PYEOF'
           import subprocess, sys
-          sys.path.insert(0, "scripts")
+          sys.path.insert(0, "dev/scripts")
           import fm
 
           BASE = "adventure_map/adventure_map_activities"
