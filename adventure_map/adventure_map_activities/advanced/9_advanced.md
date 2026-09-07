@@ -4,7 +4,7 @@ description: "Tactile Art & Design Adventures by the Center for Assistive Techno
 order: 11
 nav_title: "Activity B.3: True 3D Models"
 next_override_title: "Section C: 3D Printable STEM Models"
-next_override_path: "../../../embeds/resources_page/3D_PRINTABLE_STEM_RESOURCES.md"
+next_override_path: "../../../dev/embeds/resources_page/3D_PRINTABLE_STEM_RESOURCES.md"
 ---
 # Activity B.3. True 3D models
 
@@ -168,4 +168,4 @@ Programming of any sort is not easy. OpenSCAD is a little quirky relative to som
 
 ---
 
-**Previous:** [Activity B.2: Moving from 2D to 3D](8_advanced.md) · [Download the whole thing](https://github.com/aabdurmohammed-source/TADA/archive/refs/heads/main.zip) · **Next:** [Section C: 3D Printable STEM Models](../../../embeds/resources_page/3D_PRINTABLE_STEM_RESOURCES.md) · **Back to:** [Adventure Map](../../04_ADVENTURE_MAP.md)
+**Previous:** [Activity B.2: Moving from 2D to 3D](8_advanced.md) · [Download the whole thing](https://github.com/aabdurmohammed-source/TADA/archive/refs/heads/main.zip) · **Next:** [Section C: 3D Printable STEM Models](../../../dev/embeds/resources_page/3D_PRINTABLE_STEM_RESOURCES.md) · **Back to:** [Adventure Map](../../04_ADVENTURE_MAP.md)

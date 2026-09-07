@@ -7,7 +7,7 @@ description: Tactile Art & Design Adventures by the Center for Assistive Technol
 
 ## TADA!
 
-<img src="embeds/TADALogo_tactile.svg" alt="TADA! logo" width="250" role="img">
+<img src="dev/embeds/TADALogo_tactile.svg" alt="TADA! logo" width="250" role="img">
 TADA! is an acronym for Tactile Art and Design Adventures, and designed to be a free online curriculum for anyone to use with a student of any age and ability who would like to learn nonvisual basic drawing skills, spatial concepts related to coding, and how to create computer graphics. TADA offers a set of ten (10) activities that are organized as introductory, intermediate, and advanced "points of interest" that can be followed like an adventure map and punctuated with excitement!
 
 <br clear="left">
@@ -57,9 +57,9 @@ The Northwest Center for Assistive Technology Training (CATT-NW) is based at the
 
 ---
 
-<p align="center"> <img src="embeds/cattNW.png" alt="CATT-NW logo" width="100">
+<p align="center"> <img src="dev/embeds/cattNW.png" alt="CATT-NW logo" width="100">
   &nbsp;&nbsp;
   <a href="https://www.wssb.wa.gov/services/northwest-center-assistive-technology-training-catt-nw">Northwest Center for Assistive Technology Training</a> <a href="https://www.wssb.wa.gov/">Washington State School for the Blind</a>
   &nbsp;&nbsp;
-  <img src="embeds/wssb.svg" alt="Washington State School for the Blind logo" width="100">
+  <img src="dev/embeds/wssb.svg" alt="Washington State School for the Blind logo" width="100">
 </p>
