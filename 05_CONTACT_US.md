@@ -5,6 +5,8 @@ description: Tactile Art & Design Adventures by the Center for Assistive Technol
 
 # Contact Us
 
+[Download this page (PDF)](pdf/05_CONTACT_US.pdf)
+
 [Northwest Center for Assistive Technology Training (CATT-NW)](https://wssb.wa.gov/catt)
 
 Questions or comments about TADA!? Email the CATT-NW team at [cattnw@wssb.wa.gov](mailto:cattnw@wssb.wa.gov).
