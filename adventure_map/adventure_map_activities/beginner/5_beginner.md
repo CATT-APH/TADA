@@ -8,3 +8,7 @@ summary: "Activity that says hello."
 goals: "Learn to say hello."
 ---
 Hello :)
+
+---
+
+**Previous:** [Activity 4: Moving from 3D to 2D](4_beginner.md) · **Back to:** [Adventure Map](../../04_ADVENTURE_MAP.md) · [Download all TADA PDFs](../../../pdf/TADA-all-PDFs.zip)
