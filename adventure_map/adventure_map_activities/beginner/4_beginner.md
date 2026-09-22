@@ -130,4 +130,4 @@ This activity can be broken down into several elements for lesson planning.
 
 ---
 
-**Previous:** [Activity 3: Tactile Colors](3_beginner.md) · **Back to:** [Adventure Map](../../04_ADVENTURE_MAP.md) · [Download all TADA PDFs](../../../pdf/TADA-all-PDFs.zip)
+**Previous:** [Activity 3: Tactile Colors](3_beginner.md) · **Next:** [Activity 5: Hello :)](5_beginner.md) · **Back to:** [Adventure Map](../../04_ADVENTURE_MAP.md) · [Download all TADA PDFs](../../../pdf/TADA-all-PDFs.zip)
