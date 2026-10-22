@@ -2,7 +2,10 @@
 title: "Activity B.1. Adding and Subtracting Objects"
 description: "Tactile Art & Design Adventures by the Center for Assistive Technology Training Northwest, WSSB"
 order: 9
-nav_title: "Activity B.1: Adding & Subtracting"
+nav_title: "Adding & Subtracting"
+index_title: "Adding and Subtracting Objects"
+section_code: "B"
+section: "Programming in OpenSCAD — Section B"
 ---
 # Activity B.1. Adding and Subtracting Objects
 

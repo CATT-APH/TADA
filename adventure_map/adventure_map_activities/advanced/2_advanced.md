@@ -2,7 +2,11 @@
 title: "Activity 2, Advanced - Digitizing Drawings with SVG Code"
 description: "Tactile Art & Design Adventures by the Center for Assistive Technology Training Northwest, WSSB"
 order: 2
-nav_title: "Activity 2: Digitizing Drawings with SVG Code"
+nav_title: "Digitizing Drawings with SVG Code"
+goals: "Use a computer with a text editor program; learn how to render and open .svg files; use an embosser or other accessible rendering tool to create tactile graphics from digital media."
+summary: "Learn SVG code basics. Translate physical drawings to digital illustrations. Experiment with different ways of rendering digital illustrations as tactile graphics."
+index_title: "Digitizing Drawings with SVG Code"
+section: "Intro to SVG"
 ---
 # Activity 2, Advanced - Digitizing Drawings with SVG Code
 

@@ -3,6 +3,9 @@ title: "Section A: Making 2D Shapes in OpenSCAD"
 description: "Tactile Art & Design Adventures by the Center for Assistive Technology Training Northwest, WSSB"
 order: 5
 nav_title: "Section A: Making 2D Shapes"
+kind: "page"
+section_code: "A"
+section: "Section A: Making 2D Shapes in OpenSCAD"
 ---
 # Section A: Making 2D Shapes in OpenSCAD
 

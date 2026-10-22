@@ -2,7 +2,10 @@
 title: "Activity 3, Advanced - Iterating on SVG Drawings & Beyond"
 description: "Tactile Art & Design Adventures by the Center for Assistive Technology Training Northwest, WSSB"
 order: 3
-nav_title: "Activity 3: Iterating on SVG Drawings & Beyond"
+nav_title: "Iterating on SVG Drawings & Beyond"
+summary: "Iterate (repeatedly produce) digital designs, change shapes as desired, and practice using SVG syntax to prepare for more advanced coding and drawing skills. Use rendered tactile graphics as a means to draft and revise designs."
+index_title: "Iterating on SVG Drawings and Beyond"
+section: "Intro to SVG"
 ---
 # Activity 3, Advanced - Iterating on SVG Drawings & Beyond
 
