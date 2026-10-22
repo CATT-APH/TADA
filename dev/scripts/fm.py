@@ -45,3 +45,29 @@ def get_order(text):
 def get(text, key, default=None):
     data, _, _ = parse(text)
     return data.get(key, default)
+
+
+def assign_labels(items):
+    """Auto-number activities that opt in with a `section:` field.
+
+    items: list of dicts with keys "order" (int) and "data" (frontmatter dict),
+    already sorted by order. Returns {id(item): "Activity 3"} or
+    {id(item): "Activity A.2"} - the number is the item's position inside its
+    section (counting only kind != page), so authors never type a number.
+
+    `section_code: A` makes the label "Activity A.<n>"; without a code it is
+    "Activity <n>". Items with kind: page (section intro pages) get no label.
+    Items with no `section:` (beginner / intermediate) are skipped.
+    """
+    counts = {}
+    labels = {}
+    for it in items:
+        data = it["data"]
+        section = data.get("section")
+        if not section or data.get("kind") == "page":
+            continue
+        counts[section] = counts.get(section, 0) + 1
+        n = counts[section]
+        code = data.get("section_code", "").strip()
+        labels[id(it)] = f"Activity {code}.{n}" if code else f"Activity {n}"
+    return labels

@@ -2,7 +2,10 @@
 title: "Activity A.3. Rotating, Translating, Scaling and Mirroring Shapes"
 description: "Tactile Art & Design Adventures by the Center for Assistive Technology Training Northwest, WSSB"
 order: 8
-nav_title: "Activity A.3: Rotating, Translating, Scaling"
+nav_title: "Rotating, Translating, Scaling"
+index_title: "Rotating, Translating, Scaling and Mirroring Shapes"
+section_code: "A"
+section: "Section A: Making 2D Shapes in OpenSCAD"
 ---
 # Activity A.3. Rotating, Translating, Scaling and Mirroring Shapes
 

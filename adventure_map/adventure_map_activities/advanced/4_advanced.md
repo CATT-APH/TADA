@@ -2,7 +2,10 @@
 title: "Activity A.1. Create a Square in OpenSCAD"
 description: "Tactile Art & Design Adventures by the Center for Assistive Technology Training Northwest, WSSB"
 order: 6
-nav_title: "Activity A.1: Create a Square"
+nav_title: "Create a Square"
+index_title: "Create a Square in OpenSCAD"
+section_code: "A"
+section: "Section A: Making 2D Shapes in OpenSCAD"
 ---
 # Activity A.1. Create a Square in OpenSCAD
 

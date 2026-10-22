@@ -37,6 +37,10 @@ Although we present a set of ten activities with suggested materials and resourc
 
 Remember: Art and design is for everyone!
 
+## Contributing
+
+Want to add an activity? Follow [How to add your activity to the Adventure Map](adventure_map/Instructions_to_add_an_activity.md). Navigation and the Adventure Map list update automatically.
+
 ## Acknowledgments
 
 TADA! is meant to be a living resource, open to revision and updates in response to community needs. The project draws upon the lived and learned experiences of the CATT-NW team:

@@ -14,7 +14,7 @@ You wrote your activity in Google Docs (or similar). Here's how to get it into t
 3. Add a frontmatter block at the top (see below) — **this is the important part.**
 4. Push, or open a Pull Request.
 
-That's it for beginner and intermediate activities. Advanced has one extra manual step (see the note at the bottom).
+That's it for all three tiers. Advanced has a slightly different header (see the Advanced section below), but you still never number anything or edit the Adventure Map by hand.
 
 ## 1. Export your activity as Markdown
 
@@ -37,7 +37,7 @@ adventure_map/adventure_map_activities/
 └─ advanced/        →  10_advanced.md, ...
 ```
 
-Use the next open number in your category.
+Use the next open number in your category. (For advanced, the file number only has to be unused; the activity's position and label like "Activity B.4" are worked out automatically from its header, not from the file name.)
 
 ## 3. Add the frontmatter block
 
@@ -89,14 +89,42 @@ Everything below the frontmatter — your `#` title, Setup section, numbered ste
 
 You do **not** need to manually edit the footer links or `04_ADVENTURE_MAP.md` yourself — an automation handles that next.
 
-## Advanced tier: one extra manual step
+## Advanced tier
 
-Advanced activities get their footer links automated the same way. But the Advanced section of `04_ADVENTURE_MAP.md` mixes real activities with hand-written section headers (like "Section A: Making 2D Shapes in OpenSCAD") that don't correspond to any file — so that index section is never auto-generated. If you're adding an advanced activity, add its line to `04_ADVENTURE_MAP.md` yourself, in the same format as the ones already there.
+Advanced is built in sections (Intro to SVG, Section A, Section B), so its header has three extra fields. Everything is still automatic: the Adventure Map list and the Previous/Next footers are generated, and activities are numbered for you inside their section ("Activity 4", or "Activity B.4" for lettered sections).
+
+```markdown
+---
+title: "Activity B.4. Your Activity Name"
+description: Tactile Art & Design Adventures by the Center for Assistive Technology Training Northwest, WSSB
+order: 12
+section: "Programming in OpenSCAD — Section B"
+section_code: B
+nav_title: "Your Activity Name"
+index_title: "Your Activity Name"
+---
+```
+
+| Field | What it controls |
+|---|---|
+| `order` | Where it sits in the whole advanced sequence. Use the highest existing `order` plus 1. |
+| `section` | Which group it appears under. Copy the text exactly from another activity in that section. |
+| `section_code` | The letter in the label (A, B). Leave it out for a section with no letter, like Intro to SVG. |
+| `nav_title` | Short name in the Previous/Next footer. Do not type "Activity B.4:", it is added for you. |
+| `index_title` | Name in the Adventure Map list. Also no "Activity B.4:" prefix. |
+| `summary`, `goals` | Optional. If you add a `summary`, the Adventure Map shows the longer entry with the Goals line (like Activity 1 to 3). Without it, you get a one-line list item. |
+
+Two things to know:
+
+- **A new section** (a new heading): give every file in it the same `section` text. If the section has an intro page, give that page `kind: page` and the same `section` text, and it will be the heading link and will not be numbered.
+- **Adding to the end of the last section:** the last activity (`9_advanced.md`) has `next_override_title` and `next_override_path` lines that point to Section C. Move those two lines to your new last activity so the chain still ends at Section C.
+
+The body of your file still starts with a `#` title that includes the label (for example `# Activity B.4. Your Activity Name`). Check that this label matches the one the Adventure Map list shows after the automation runs.
 
 ## Before you push, check:
 
 - [ ] File placed in the right tier folder, correctly numbered
-- [ ] Frontmatter has `order`, `nav_title`, `index_title`, `summary`, and `goals` filled in
+- [ ] Frontmatter filled in (beginner/intermediate: `order`, `nav_title`, `index_title`, `summary`, `goals`; advanced: `order`, `section`, `nav_title`, `index_title`)
 - [ ] No stray backslashes or mismatched heading levels left from the Google Docs export
 - [ ] Any images have real descriptive alt text (not just a caption)
 - [ ] No emojis

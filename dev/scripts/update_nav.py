@@ -77,6 +77,12 @@ def main(dry_run=False):
             })
         items.sort(key=lambda i: i["order"])
 
+        # Auto-numbered tiers (advanced): footer text is "<computed label>: <nav_title>"
+        labels = fm.assign_labels(items)
+        for item in items:
+            if id(item) in labels:
+                item["nav_title"] = f"{labels[id(item)]}: {item['nav_title']}"
+
         for i, item in enumerate(items):
             data = item["data"]
 

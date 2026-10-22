@@ -3,6 +3,8 @@ title: "Creating 2D and 3D Tactile Math - Overview"
 description: "Tactile Art & Design Adventures by the Center for Assistive Technology Training Northwest, WSSB"
 order: 4
 nav_title: "2D to 3D Overview"
+kind: "page"
+section: "Moving from 2D to 3D design"
 ---
 # Creating 2D and 3D Tactile Math - Overview
 

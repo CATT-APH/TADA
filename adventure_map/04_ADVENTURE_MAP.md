@@ -31,11 +31,6 @@ Develop strategies for creating pixel art using a grid, braille, and textured pa
 The translation from 3D to 2D representations benefits from direct, explicit instruction to help students develop a strong foundation for interpreting tactile graphics.
 
 **Goals:** Learn how 3D objects are represented as 2D tactile graphics.
-
-### [Activity 5: Hello :)](adventure_map_activities/beginner/5_beginner.md)
-Activity that says hello.
-
-**Goals:** Learn to say hello.
 <!-- END AUTO-GENERATED:beginner -->
 
 ### Activity 5: Coming Soon
@@ -71,6 +66,7 @@ Learn coding skills with CodeQuest, a free iPad app from APH. Program solutions 
 
 [Download all Advanced activities](../pdf/advanced-bundle.pdf)
 
+<!-- AUTO-GENERATED:advanced -->
 ### Intro to SVG
 
 ### [Activity 1: Intro to Spatial Mapping](adventure_map_activities/advanced/1_advanced.md)
@@ -90,19 +86,20 @@ Iterate (repeatedly produce) digital designs, change shapes as desired, and prac
 
 ### [Section A: Making 2D Shapes in OpenSCAD](adventure_map_activities/advanced/2DIntro.md)
 
-- [Activity A.1. Create a Square in OpenSCAD](adventure_map_activities/advanced/4_advanced.md)
-- [Activity A.2. Basic Shapes in OpenSCAD](adventure_map_activities/advanced/5_advanced.md)
-- [Activity A.3. Rotating, Translating, Scaling and Mirroring Shapes](adventure_map_activities/advanced/6_advanced.md)
+- [Activity A.1: Create a Square in OpenSCAD](adventure_map_activities/advanced/4_advanced.md)
+- [Activity A.2: Basic Shapes in OpenSCAD](adventure_map_activities/advanced/5_advanced.md)
+- [Activity A.3: Rotating, Translating, Scaling and Mirroring Shapes](adventure_map_activities/advanced/6_advanced.md)
 
 ### Programming in OpenSCAD — Section B
 
-- [Activity B.1. Adding and Subtracting Objects](adventure_map_activities/advanced/7_advanced.md)
-- [Activity B.2. Moving from 2D to 3D](adventure_map_activities/advanced/8_advanced.md)
-- [Activity B.3. True 3D Models](adventure_map_activities/advanced/9_advanced.md)
+- [Activity B.1: Adding and Subtracting Objects](adventure_map_activities/advanced/7_advanced.md)
+- [Activity B.2: Moving from 2D to 3D](adventure_map_activities/advanced/8_advanced.md)
+- [Activity B.3: True 3D Models](adventure_map_activities/advanced/9_advanced.md)
+<!-- END AUTO-GENERATED:advanced -->
 
 ### [Section C: Guide to Published 3D Printable STEM Models](../dev/embeds/resources_page/3D_PRINTABLE_STEM_RESOURCES.md)
 
-# Need help adding activities? Visit [Instructions](Instructions.md)
+# Need help adding activities? Visit [Instructions](Instructions_to_add_an_activity.md)
 
 
 ---

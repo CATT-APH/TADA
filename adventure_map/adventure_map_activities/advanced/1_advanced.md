@@ -2,7 +2,11 @@
 title: "Activity 1, Advanced - Intro to Spatial Mapping"
 description: "Tactile Art & Design Adventures by the Center for Assistive Technology Training Northwest, WSSB"
 order: 1
-nav_title: "Activity 1: Intro to Spatial Mapping"
+nav_title: "Intro to Spatial Mapping"
+goals: "Introduce a coordinate system for graphing points. Apply spatial reasoning to shapes and dimensions on a coordinate plane."
+summary: "Practice using a coordinate plane to map SVG canvas units to paper. Draw basic shapes on graph paper and explore how to mark and measure shapes."
+index_title: "Intro to Spatial Mapping"
+section: "Intro to SVG"
 ---
 # Activity 1, Advanced - Intro to Spatial Mapping
 

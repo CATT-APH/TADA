@@ -2,7 +2,10 @@
 title: "Activity B.2. Moving from 2D to 3D"
 description: "Tactile Art & Design Adventures by the Center for Assistive Technology Training Northwest, WSSB"
 order: 10
-nav_title: "Activity B.2: Moving from 2D to 3D"
+nav_title: "Moving from 2D to 3D"
+index_title: "Moving from 2D to 3D"
+section_code: "B"
+section: "Programming in OpenSCAD — Section B"
 ---
 # Activity B.2. Moving from 2D to 3D
 
